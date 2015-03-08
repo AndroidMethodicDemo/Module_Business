@@ -1,0 +1,2 @@
+如果想使用自己的key,就必须在微信开放平台注册包名以及签名并通过审核
+此demo 使用了sharesdk的sample的keystore进行打包apk

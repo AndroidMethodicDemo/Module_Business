@@ -1,0 +1,4 @@
+AppKey：27cd2ca434dd5ef0c767bf55
+API MasterSecret：0e0f4049b9a819afe22b74a7
+包名：com.example.jpushdemo
+
