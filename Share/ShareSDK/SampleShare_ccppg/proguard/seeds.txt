@@ -1,0 +1,1942 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTabStrip$1: void onClick(android.view.View)
+android.support.v4.view.PagerTabStrip$2: void onClick(android.view.View)
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setTriggerPercentage(float)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setTargetOffsetTopAndBottom(int)
+cn.sharesdk.R
+cn.sharesdk.R: R()
+cn.sharesdk.R$drawable
+cn.sharesdk.R$drawable: int ssdk_auth_title_back
+cn.sharesdk.R$drawable: int ssdk_back_arr
+cn.sharesdk.R$drawable: int ssdk_logo
+cn.sharesdk.R$drawable: int ssdk_title_div
+cn.sharesdk.R$drawable: R$drawable()
+cn.sharesdk.R$string
+cn.sharesdk.R$string: int app_downloading
+cn.sharesdk.R$string: int douban
+cn.sharesdk.R$string: int download_faield
+cn.sharesdk.R$string: int dropbox
+cn.sharesdk.R$string: int email
+cn.sharesdk.R$string: int evernote
+cn.sharesdk.R$string: int facebook
+cn.sharesdk.R$string: int failed_to_start_incentive_page
+cn.sharesdk.R$string: int flickr
+cn.sharesdk.R$string: int foursquare
+cn.sharesdk.R$string: int google_plus_client_inavailable
+cn.sharesdk.R$string: int googleplus
+cn.sharesdk.R$string: int incentive_title
+cn.sharesdk.R$string: int instagram
+cn.sharesdk.R$string: int instagram_client_inavailable
+cn.sharesdk.R$string: int kaixin
+cn.sharesdk.R$string: int linkedin
+cn.sharesdk.R$string: int mingdao
+cn.sharesdk.R$string: int mingdao_share_content
+cn.sharesdk.R$string: int neteasemicroblog
+cn.sharesdk.R$string: int pinterest
+cn.sharesdk.R$string: int pinterest_client_inavailable
+cn.sharesdk.R$string: int qq
+cn.sharesdk.R$string: int qq_client_inavailable
+cn.sharesdk.R$string: int qzone
+cn.sharesdk.R$string: int renren
+cn.sharesdk.R$string: int share_to_mingdao
+cn.sharesdk.R$string: int share_to_qzone
+cn.sharesdk.R$string: int shortmessage
+cn.sharesdk.R$string: int sinaweibo
+cn.sharesdk.R$string: int sohumicroblog
+cn.sharesdk.R$string: int sohusuishenkan
+cn.sharesdk.R$string: int tencentweibo
+cn.sharesdk.R$string: int tumblr
+cn.sharesdk.R$string: int twitter
+cn.sharesdk.R$string: int vkontakte
+cn.sharesdk.R$string: int website
+cn.sharesdk.R$string: int wechat
+cn.sharesdk.R$string: int wechat_client_inavailable
+cn.sharesdk.R$string: int wechatfavorite
+cn.sharesdk.R$string: int wechatmoments
+cn.sharesdk.R$string: int weibo_oauth_regiseter
+cn.sharesdk.R$string: int weibo_upload_content
+cn.sharesdk.R$string: int yixin
+cn.sharesdk.R$string: int yixin_client_inavailable
+cn.sharesdk.R$string: int yixinmoments
+cn.sharesdk.R$string: int youdao
+cn.sharesdk.R$string: R$string()
+cn.sharesdk.framework.CustomPlatform
+cn.sharesdk.framework.CustomPlatform: CustomPlatform(android.content.Context)
+cn.sharesdk.framework.CustomPlatform: void initDevInfo(java.lang.String)
+cn.sharesdk.framework.CustomPlatform: java.lang.String getName()
+cn.sharesdk.framework.CustomPlatform: int getVersion()
+cn.sharesdk.framework.CustomPlatform: int getPlatformId()
+cn.sharesdk.framework.CustomPlatform: int getCustomPlatformId()
+cn.sharesdk.framework.CustomPlatform: void setNetworkDevinfo()
+cn.sharesdk.framework.CustomPlatform: void doAuthorize(java.lang.String[])
+cn.sharesdk.framework.CustomPlatform: boolean checkAuthorize(int,java.lang.Object)
+cn.sharesdk.framework.CustomPlatform: void doShare(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.framework.CustomPlatform: void follow(java.lang.String)
+cn.sharesdk.framework.CustomPlatform: void timeline(int,int,java.lang.String)
+cn.sharesdk.framework.CustomPlatform: void userInfor(java.lang.String)
+cn.sharesdk.framework.CustomPlatform: void getFriendList(int,int,java.lang.String)
+cn.sharesdk.framework.CustomPlatform: void doCustomerProtocol(java.lang.String,java.lang.String,int,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.framework.CustomPlatform: cn.sharesdk.framework.b.b.f$a filterShareContent(cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.framework.FakeActivity
+cn.sharesdk.framework.FakeActivity: android.app.Activity activity
+cn.sharesdk.framework.FakeActivity: cn.sharesdk.framework.FakeActivity resultReceiver
+cn.sharesdk.framework.FakeActivity: java.util.HashMap result
+cn.sharesdk.framework.FakeActivity: android.view.View contentView
+cn.sharesdk.framework.FakeActivity: FakeActivity()
+cn.sharesdk.framework.FakeActivity: void setActivity(android.app.Activity)
+cn.sharesdk.framework.FakeActivity: void setContentView(android.view.View)
+cn.sharesdk.framework.FakeActivity: android.view.View getContentView()
+cn.sharesdk.framework.FakeActivity: void onCreate()
+cn.sharesdk.framework.FakeActivity: void onNewIntent(android.content.Intent)
+cn.sharesdk.framework.FakeActivity: void onStart()
+cn.sharesdk.framework.FakeActivity: void onPause()
+cn.sharesdk.framework.FakeActivity: void onResume()
+cn.sharesdk.framework.FakeActivity: void onStop()
+cn.sharesdk.framework.FakeActivity: void onRestart()
+cn.sharesdk.framework.FakeActivity: boolean onFinish()
+cn.sharesdk.framework.FakeActivity: void onDestroy()
+cn.sharesdk.framework.FakeActivity: void finish()
+cn.sharesdk.framework.FakeActivity: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.sharesdk.framework.FakeActivity: void onActivityResult(int,int,android.content.Intent)
+cn.sharesdk.framework.FakeActivity: void startActivity(android.content.Intent)
+cn.sharesdk.framework.FakeActivity: void startActivityForResult(android.content.Intent,int)
+cn.sharesdk.framework.FakeActivity: void onConfigurationChanged(android.content.res.Configuration)
+cn.sharesdk.framework.FakeActivity: android.content.Context getContext()
+cn.sharesdk.framework.FakeActivity: void show(android.content.Context,android.content.Intent)
+cn.sharesdk.framework.FakeActivity: void showForResult(android.content.Context,android.content.Intent,cn.sharesdk.framework.FakeActivity)
+cn.sharesdk.framework.FakeActivity: cn.sharesdk.framework.FakeActivity getParent()
+cn.sharesdk.framework.FakeActivity: void setResult(java.util.HashMap)
+cn.sharesdk.framework.FakeActivity: void sendResult()
+cn.sharesdk.framework.FakeActivity: void onResult(java.util.HashMap)
+cn.sharesdk.framework.Platform
+cn.sharesdk.framework.Platform: int ACTION_AUTHORIZING
+cn.sharesdk.framework.Platform: int ACTION_GETTING_FRIEND_LIST
+cn.sharesdk.framework.Platform: int ACTION_SENDING_DIRECT_MESSAGE
+cn.sharesdk.framework.Platform: int ACTION_FOLLOWING_USER
+cn.sharesdk.framework.Platform: int ACTION_TIMELINE
+cn.sharesdk.framework.Platform: int ACTION_USER_INFOR
+cn.sharesdk.framework.Platform: int ACTION_SHARE
+cn.sharesdk.framework.Platform: int ACTION_CUSTOMER
+cn.sharesdk.framework.Platform: int CUSTOMER_ACTION_MASK
+cn.sharesdk.framework.Platform: int SHARE_TEXT
+cn.sharesdk.framework.Platform: int SHARE_IMAGE
+cn.sharesdk.framework.Platform: int SHARE_WEBPAGE
+cn.sharesdk.framework.Platform: int SHARE_MUSIC
+cn.sharesdk.framework.Platform: int SHARE_VIDEO
+cn.sharesdk.framework.Platform: int SHARE_APPS
+cn.sharesdk.framework.Platform: int SHARE_FILE
+cn.sharesdk.framework.Platform: int SHARE_EMOJI
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.g a
+cn.sharesdk.framework.Platform: android.content.Context context
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.PlatformDb db
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.PlatformActionListener listener
+cn.sharesdk.framework.Platform: Platform(android.content.Context)
+cn.sharesdk.framework.Platform: void a()
+cn.sharesdk.framework.Platform: void initDevInfo(java.lang.String)
+cn.sharesdk.framework.Platform: java.lang.String getDevinfo(java.lang.String)
+cn.sharesdk.framework.Platform: java.lang.String getDevinfo(java.lang.String,java.lang.String)
+cn.sharesdk.framework.Platform: java.lang.String getNetworkDevinfo(java.lang.String,java.lang.String)
+cn.sharesdk.framework.Platform: java.lang.String getNetworkDevinfo(int,java.lang.String,java.lang.String)
+cn.sharesdk.framework.Platform: android.content.Context getContext()
+cn.sharesdk.framework.Platform: java.lang.String getName()
+cn.sharesdk.framework.Platform: int getVersion()
+cn.sharesdk.framework.Platform: int getId()
+cn.sharesdk.framework.Platform: int getPlatformId()
+cn.sharesdk.framework.Platform: int getSortId()
+cn.sharesdk.framework.Platform: void setPlatformActionListener(cn.sharesdk.framework.PlatformActionListener)
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.PlatformActionListener getPlatformActionListener()
+cn.sharesdk.framework.Platform: boolean isValid()
+cn.sharesdk.framework.Platform: void SSOSetting(boolean)
+cn.sharesdk.framework.Platform: boolean isSSODisable()
+cn.sharesdk.framework.Platform: boolean b()
+cn.sharesdk.framework.Platform: void authorize()
+cn.sharesdk.framework.Platform: void authorize(java.lang.String[])
+cn.sharesdk.framework.Platform: void setNetworkDevinfo()
+cn.sharesdk.framework.Platform: void doAuthorize(java.lang.String[])
+cn.sharesdk.framework.Platform: boolean checkAuthorize(int,java.lang.Object)
+cn.sharesdk.framework.Platform: void innerAuthorize(int,java.lang.Object)
+cn.sharesdk.framework.Platform: void share(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.framework.Platform: void doShare(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.framework.Platform: void followFriend(java.lang.String)
+cn.sharesdk.framework.Platform: void follow(java.lang.String)
+cn.sharesdk.framework.Platform: void getTimeLine(java.lang.String,int,int)
+cn.sharesdk.framework.Platform: void timeline(int,int,java.lang.String)
+cn.sharesdk.framework.Platform: void showUser(java.lang.String)
+cn.sharesdk.framework.Platform: void userInfor(java.lang.String)
+cn.sharesdk.framework.Platform: void listFriend(int,int,java.lang.String)
+cn.sharesdk.framework.Platform: void getFriendList(int,int,java.lang.String)
+cn.sharesdk.framework.Platform: void customerProtocol(java.lang.String,java.lang.String,short,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.framework.Platform: void doCustomerProtocol(java.lang.String,java.lang.String,int,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.framework.Platform: void afterRegister(int,java.lang.Object)
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.PlatformDb getDb()
+cn.sharesdk.framework.Platform: void removeAccount()
+cn.sharesdk.framework.Platform: java.lang.String getShortLintk(java.lang.String,boolean)
+cn.sharesdk.framework.Platform: cn.sharesdk.framework.b.b.f$a filterShareContent(cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.framework.Platform: java.lang.String uploadImageToFileServer(java.lang.String)
+cn.sharesdk.framework.Platform: java.lang.String uploadImageToFileServer(android.graphics.Bitmap)
+cn.sharesdk.framework.Platform$ShareParams
+cn.sharesdk.framework.Platform$ShareParams: java.lang.String text
+cn.sharesdk.framework.Platform$ShareParams: java.lang.String imagePath
+cn.sharesdk.framework.Platform$ShareParams: Platform$ShareParams()
+cn.sharesdk.framework.Platform$ShareParams: Platform$ShareParams(java.util.HashMap)
+cn.sharesdk.framework.Platform$ShareParams: Platform$ShareParams(java.lang.String)
+cn.sharesdk.framework.PlatformActionListener
+cn.sharesdk.framework.PlatformActionListener: void onComplete(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.PlatformActionListener: void onError(cn.sharesdk.framework.Platform,int,java.lang.Throwable)
+cn.sharesdk.framework.PlatformActionListener: void onCancel(cn.sharesdk.framework.Platform,int)
+cn.sharesdk.framework.PlatformDb
+cn.sharesdk.framework.PlatformDb: java.lang.String DB_NAME
+cn.sharesdk.framework.PlatformDb: android.content.SharedPreferences db
+cn.sharesdk.framework.PlatformDb: java.lang.String platformNname
+cn.sharesdk.framework.PlatformDb: int platformVersion
+cn.sharesdk.framework.PlatformDb: PlatformDb(android.content.Context,java.lang.String,int)
+cn.sharesdk.framework.PlatformDb: void put(java.lang.String,java.lang.String)
+cn.sharesdk.framework.PlatformDb: java.lang.String get(java.lang.String)
+cn.sharesdk.framework.PlatformDb: java.lang.String getToken()
+cn.sharesdk.framework.PlatformDb: void putToken(java.lang.String)
+cn.sharesdk.framework.PlatformDb: java.lang.String getTokenSecret()
+cn.sharesdk.framework.PlatformDb: void putTokenSecret(java.lang.String)
+cn.sharesdk.framework.PlatformDb: long getExpiresIn()
+cn.sharesdk.framework.PlatformDb: void putExpiresIn(long)
+cn.sharesdk.framework.PlatformDb: long getExpiresTime()
+cn.sharesdk.framework.PlatformDb: int getPlatformVersion()
+cn.sharesdk.framework.PlatformDb: java.lang.String getPlatformNname()
+cn.sharesdk.framework.PlatformDb: void putUserId(java.lang.String)
+cn.sharesdk.framework.PlatformDb: java.lang.String getUserId()
+cn.sharesdk.framework.PlatformDb: java.lang.String getUserName()
+cn.sharesdk.framework.PlatformDb: java.lang.String getUserIcon()
+cn.sharesdk.framework.PlatformDb: void removeAccount()
+cn.sharesdk.framework.PlatformDb: java.lang.String exportData()
+cn.sharesdk.framework.PlatformDb: void importData(java.lang.String)
+cn.sharesdk.framework.PlatformDb: boolean isValid()
+cn.sharesdk.framework.PlatformDb: java.lang.String getUserGender()
+cn.sharesdk.framework.Service
+cn.sharesdk.framework.Service: android.content.Context a
+cn.sharesdk.framework.Service: java.lang.String b
+cn.sharesdk.framework.Service: Service()
+cn.sharesdk.framework.Service: void a(android.content.Context)
+cn.sharesdk.framework.Service: android.content.Context getContext()
+cn.sharesdk.framework.Service: void a(java.lang.String)
+cn.sharesdk.framework.Service: java.lang.String getAppKey()
+cn.sharesdk.framework.Service: java.lang.String getDeviceKey()
+cn.sharesdk.framework.Service: int getServiceVersionInt()
+cn.sharesdk.framework.Service: java.lang.String getServiceVersionName()
+cn.sharesdk.framework.Service: void onBind()
+cn.sharesdk.framework.Service: void onUnbind()
+cn.sharesdk.framework.Service: android.content.Context a(cn.sharesdk.framework.Service)
+cn.sharesdk.framework.Service$ServiceEvent
+cn.sharesdk.framework.Service$ServiceEvent: int PLATFORM
+cn.sharesdk.framework.Service$ServiceEvent: cn.sharesdk.framework.Service service
+cn.sharesdk.framework.Service$ServiceEvent: Service$ServiceEvent(cn.sharesdk.framework.Service)
+cn.sharesdk.framework.Service$ServiceEvent: java.util.HashMap toMap()
+cn.sharesdk.framework.Service$ServiceEvent: java.lang.String toString()
+cn.sharesdk.framework.Service$ServiceEvent: java.util.HashMap filterShareContent(int,cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.framework.ShareSDK
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.m a
+cn.sharesdk.framework.ShareSDK: boolean b
+cn.sharesdk.framework.ShareSDK: ShareSDK()
+cn.sharesdk.framework.ShareSDK: void initSDK(android.content.Context)
+cn.sharesdk.framework.ShareSDK: void initSDK(android.content.Context,boolean)
+cn.sharesdk.framework.ShareSDK: void initSDK(android.content.Context,java.lang.String)
+cn.sharesdk.framework.ShareSDK: void initSDK(android.content.Context,java.lang.String,boolean)
+cn.sharesdk.framework.ShareSDK: void stopSDK(android.content.Context)
+cn.sharesdk.framework.ShareSDK: void c()
+cn.sharesdk.framework.ShareSDK: void registerService(java.lang.Class)
+cn.sharesdk.framework.ShareSDK: void unregisterService(java.lang.Class)
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.Service getService(java.lang.Class)
+cn.sharesdk.framework.ShareSDK: void registerPlatform(java.lang.Class)
+cn.sharesdk.framework.ShareSDK: void unregisterPlatform(java.lang.Class)
+cn.sharesdk.framework.ShareSDK: java.lang.String getSDKVersionName()
+cn.sharesdk.framework.ShareSDK: int getSDKVersionCode()
+cn.sharesdk.framework.ShareSDK: void setConnTimeout(int)
+cn.sharesdk.framework.ShareSDK: void setReadTimeout(int)
+cn.sharesdk.framework.ShareSDK: void removeCookieOnAuthorize(boolean)
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.Platform[] getPlatformList(android.content.Context)
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.Platform[] getPlatformList()
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.Platform getPlatform(android.content.Context,java.lang.String)
+cn.sharesdk.framework.ShareSDK: cn.sharesdk.framework.Platform getPlatform(java.lang.String)
+cn.sharesdk.framework.ShareSDK: void logDemoEvent(int,cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.ShareSDK: void logApiEvent(java.lang.String,int)
+cn.sharesdk.framework.ShareSDK: void setPlatformDevInfo(java.lang.String,java.util.HashMap)
+cn.sharesdk.framework.ShareSDK: java.lang.String platformIdToName(int)
+cn.sharesdk.framework.ShareSDK: int platformNameToId(java.lang.String)
+cn.sharesdk.framework.ShareSDK: boolean isRemoveCookieOnAuthorize()
+cn.sharesdk.framework.ShareSDK: void closeDebug()
+cn.sharesdk.framework.ShareSDK: boolean isDebug()
+cn.sharesdk.framework.ShareSDK: java.lang.String a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.ShareSDK: java.lang.String a(int,java.lang.String)
+cn.sharesdk.framework.ShareSDK: boolean a()
+cn.sharesdk.framework.ShareSDK: boolean b()
+cn.sharesdk.framework.ShareSDK: boolean a(java.util.HashMap)
+cn.sharesdk.framework.ShareSDK: boolean b(java.util.HashMap)
+cn.sharesdk.framework.ShareSDK: java.lang.String a(java.lang.String,boolean,int,java.lang.String)
+cn.sharesdk.framework.ShareSDK: java.lang.String a(java.lang.String)
+cn.sharesdk.framework.ShareSDK: java.lang.String a(android.graphics.Bitmap)
+cn.sharesdk.framework.ShareSDK: void <clinit>()
+cn.sharesdk.framework.ShareSDKUIShell
+cn.sharesdk.framework.ShareSDKUIShell: java.util.HashMap a
+cn.sharesdk.framework.ShareSDKUIShell: cn.sharesdk.framework.FakeActivity b
+cn.sharesdk.framework.ShareSDKUIShell: ShareSDKUIShell()
+cn.sharesdk.framework.ShareSDKUIShell: java.lang.String a(cn.sharesdk.framework.FakeActivity)
+cn.sharesdk.framework.ShareSDKUIShell: java.lang.String a(java.lang.String,cn.sharesdk.framework.FakeActivity)
+cn.sharesdk.framework.ShareSDKUIShell: void onCreate(android.os.Bundle)
+cn.sharesdk.framework.ShareSDKUIShell: void setContentView(int)
+cn.sharesdk.framework.ShareSDKUIShell: void setContentView(android.view.View)
+cn.sharesdk.framework.ShareSDKUIShell: void setContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+cn.sharesdk.framework.ShareSDKUIShell: void onNewIntent(android.content.Intent)
+cn.sharesdk.framework.ShareSDKUIShell: void onStart()
+cn.sharesdk.framework.ShareSDKUIShell: void onResume()
+cn.sharesdk.framework.ShareSDKUIShell: void onPause()
+cn.sharesdk.framework.ShareSDKUIShell: void onStop()
+cn.sharesdk.framework.ShareSDKUIShell: void onRestart()
+cn.sharesdk.framework.ShareSDKUIShell: void onDestroy()
+cn.sharesdk.framework.ShareSDKUIShell: void onActivityResult(int,int,android.content.Intent)
+cn.sharesdk.framework.ShareSDKUIShell: boolean onKeyDown(int,android.view.KeyEvent)
+cn.sharesdk.framework.ShareSDKUIShell: boolean onKeyUp(int,android.view.KeyEvent)
+cn.sharesdk.framework.ShareSDKUIShell: void onConfigurationChanged(android.content.res.Configuration)
+cn.sharesdk.framework.ShareSDKUIShell: void finish()
+cn.sharesdk.framework.ShareSDKUIShell: void <clinit>()
+cn.sharesdk.framework.TitleLayout
+cn.sharesdk.framework.TitleLayout: android.widget.ImageView btnBack
+cn.sharesdk.framework.TitleLayout: android.widget.TextView tvTitle
+cn.sharesdk.framework.TitleLayout: android.widget.TextView btnRight
+cn.sharesdk.framework.TitleLayout: TitleLayout(android.content.Context)
+cn.sharesdk.framework.TitleLayout: TitleLayout(android.content.Context,android.util.AttributeSet)
+cn.sharesdk.framework.TitleLayout: void init(android.content.Context)
+cn.sharesdk.framework.TitleLayout: android.widget.ImageView getBtnBack()
+cn.sharesdk.framework.TitleLayout: android.widget.TextView getTvTitle()
+cn.sharesdk.framework.TitleLayout: android.widget.TextView getBtnRight()
+cn.sharesdk.framework.a
+cn.sharesdk.framework.a: cn.sharesdk.framework.FakeActivity a
+cn.sharesdk.framework.a: a(cn.sharesdk.framework.FakeActivity)
+cn.sharesdk.framework.a: boolean handleMessage(android.os.Message)
+cn.sharesdk.framework.a.a
+cn.sharesdk.framework.a.a: byte[] a
+cn.sharesdk.framework.a.a: a()
+cn.sharesdk.framework.a.a: cn.sharesdk.framework.a.a a(byte[])
+cn.sharesdk.framework.a.a: java.io.InputStream a()
+cn.sharesdk.framework.a.a: java.lang.String toString()
+cn.sharesdk.framework.a.a: long b()
+cn.sharesdk.framework.a.b
+cn.sharesdk.framework.a.b: java.io.File a
+cn.sharesdk.framework.a.b: b()
+cn.sharesdk.framework.a.b: void a(java.io.File)
+cn.sharesdk.framework.a.b: void a(java.lang.String)
+cn.sharesdk.framework.a.b: java.io.InputStream a()
+cn.sharesdk.framework.a.b: java.lang.String toString()
+cn.sharesdk.framework.a.b: long b()
+cn.sharesdk.framework.a.c
+cn.sharesdk.framework.a.c: c()
+cn.sharesdk.framework.a.c: java.io.InputStream a()
+cn.sharesdk.framework.a.c: long b()
+cn.sharesdk.framework.a.c: org.apache.http.entity.InputStreamEntity c()
+cn.sharesdk.framework.a.d
+cn.sharesdk.framework.a.d: java.lang.String a
+cn.sharesdk.framework.a.d: java.lang.Object b
+cn.sharesdk.framework.a.d: d(java.lang.String,java.lang.Object)
+cn.sharesdk.framework.a.d: java.lang.String toString()
+cn.sharesdk.framework.a.e
+cn.sharesdk.framework.a.e: java.util.ArrayList a
+cn.sharesdk.framework.a.e: e()
+cn.sharesdk.framework.a.e: cn.sharesdk.framework.a.e a(cn.sharesdk.framework.a.c)
+cn.sharesdk.framework.a.e: java.io.InputStream a()
+cn.sharesdk.framework.a.e: java.lang.String toString()
+cn.sharesdk.framework.a.e: long b()
+cn.sharesdk.framework.a.f
+cn.sharesdk.framework.a.f: java.util.ArrayList a
+cn.sharesdk.framework.a.f: int b
+cn.sharesdk.framework.a.f: f()
+cn.sharesdk.framework.a.f: void a(java.io.InputStream)
+cn.sharesdk.framework.a.f: boolean a()
+cn.sharesdk.framework.a.f: int available()
+cn.sharesdk.framework.a.f: void close()
+cn.sharesdk.framework.a.f: long skip(long)
+cn.sharesdk.framework.a.f: int read()
+cn.sharesdk.framework.a.f: int read(byte[],int,int)
+cn.sharesdk.framework.a.g
+cn.sharesdk.framework.a.g: int a
+cn.sharesdk.framework.a.g: int b
+cn.sharesdk.framework.a.g: g()
+cn.sharesdk.framework.a.g: java.lang.String a(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList)
+cn.sharesdk.framework.a.g: java.lang.String a(android.content.Context,java.lang.String,java.lang.String,boolean)
+cn.sharesdk.framework.a.g: java.lang.String a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.util.ArrayList,java.util.ArrayList)
+cn.sharesdk.framework.a.g: org.apache.http.client.methods.HttpPost a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d)
+cn.sharesdk.framework.a.g: org.apache.http.client.methods.HttpPost a(java.lang.String,java.util.ArrayList)
+cn.sharesdk.framework.a.g: java.io.InputStream a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.c)
+cn.sharesdk.framework.a.g: java.lang.String b(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.util.ArrayList,java.util.ArrayList)
+cn.sharesdk.framework.a.g: java.lang.String a(java.util.ArrayList)
+cn.sharesdk.framework.a.g: org.apache.http.client.HttpClient a()
+cn.sharesdk.framework.a.h
+cn.sharesdk.framework.a.h: cn.sharesdk.framework.a.h c
+cn.sharesdk.framework.a.h: h()
+cn.sharesdk.framework.a.h: cn.sharesdk.framework.a.h a()
+cn.sharesdk.framework.a.h: java.lang.String a(java.lang.String,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String a(java.lang.String,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String b(java.lang.String,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.util.ArrayList,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String b(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.d,java.util.ArrayList,java.util.ArrayList,java.lang.String,int)
+cn.sharesdk.framework.a.h: java.io.InputStream a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.a.c,java.lang.String,int)
+cn.sharesdk.framework.a.h: void a(java.lang.String,int)
+cn.sharesdk.framework.a.h: java.lang.String a(android.content.Context,java.lang.String)
+cn.sharesdk.framework.a.h: void <clinit>()
+cn.sharesdk.framework.a.i
+cn.sharesdk.framework.a.i: javax.net.ssl.SSLContext a
+cn.sharesdk.framework.a.i: i(java.security.KeyStore)
+cn.sharesdk.framework.a.i: java.net.Socket createSocket(java.net.Socket,java.lang.String,int,boolean)
+cn.sharesdk.framework.a.i: java.net.Socket createSocket()
+cn.sharesdk.framework.a.j
+cn.sharesdk.framework.a.j: cn.sharesdk.framework.a.i a
+cn.sharesdk.framework.a.j: j(cn.sharesdk.framework.a.i)
+cn.sharesdk.framework.a.j: java.security.cert.X509Certificate[] getAcceptedIssuers()
+cn.sharesdk.framework.a.j: void checkClientTrusted(java.security.cert.X509Certificate[],java.lang.String)
+cn.sharesdk.framework.a.j: void checkServerTrusted(java.security.cert.X509Certificate[],java.lang.String)
+cn.sharesdk.framework.a.k
+cn.sharesdk.framework.a.k: java.lang.StringBuilder a
+cn.sharesdk.framework.a.k: k()
+cn.sharesdk.framework.a.k: cn.sharesdk.framework.a.k a(java.lang.String)
+cn.sharesdk.framework.a.k: java.io.InputStream a()
+cn.sharesdk.framework.a.k: java.lang.String toString()
+cn.sharesdk.framework.a.k: long b()
+cn.sharesdk.framework.authorize.AuthorizeAdapter
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.app.Activity activity
+cn.sharesdk.framework.authorize.AuthorizeAdapter: cn.sharesdk.framework.TitleLayout title
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.webkit.WebView webview
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean noTitle
+cn.sharesdk.framework.authorize.AuthorizeAdapter: java.lang.String platform
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.widget.RelativeLayout rlBody
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean popUpAnimationDisable
+cn.sharesdk.framework.authorize.AuthorizeAdapter: AuthorizeAdapter()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setActivity(android.app.Activity)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.app.Activity getActivity()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setTitleView(cn.sharesdk.framework.TitleLayout)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: cn.sharesdk.framework.TitleLayout getTitleLayout()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setWebView(android.webkit.WebView)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.webkit.WebView getWebBody()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setNotitle(boolean)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean isNotitle()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setPlatformName(java.lang.String)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: java.lang.String getPlatformName()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void setBodyView(android.widget.RelativeLayout)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: android.widget.RelativeLayout getBodyView()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onCreate()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onResize(int,int,int,int)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onDestroy()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void disablePopUpAnimation()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean isPopUpAnimationDisable()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onStart()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onPause()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onResume()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onStop()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void onRestart()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: boolean onFinish()
+cn.sharesdk.framework.authorize.AuthorizeAdapter: void hideShareSDKLogo()
+cn.sharesdk.framework.authorize.AuthorizeHelper
+cn.sharesdk.framework.authorize.AuthorizeHelper: cn.sharesdk.framework.Platform getPlatform()
+cn.sharesdk.framework.authorize.AuthorizeHelper: cn.sharesdk.framework.authorize.b getAuthorizeWebviewClient(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.AuthorizeHelper: cn.sharesdk.framework.authorize.AuthorizeListener getAuthorizeListener()
+cn.sharesdk.framework.authorize.AuthorizeHelper: java.lang.String getAuthorizeUrl()
+cn.sharesdk.framework.authorize.AuthorizeHelper: java.lang.String getRedirectUri()
+cn.sharesdk.framework.authorize.AuthorizeHelper: cn.sharesdk.framework.authorize.f getSSOProcessor(cn.sharesdk.framework.authorize.e)
+cn.sharesdk.framework.authorize.AuthorizeHelper: cn.sharesdk.framework.authorize.SSOListener getSSOListener()
+cn.sharesdk.framework.authorize.AuthorizeListener
+cn.sharesdk.framework.authorize.AuthorizeListener: void onComplete(android.os.Bundle)
+cn.sharesdk.framework.authorize.AuthorizeListener: void onError(java.lang.Throwable)
+cn.sharesdk.framework.authorize.AuthorizeListener: void onCancel()
+cn.sharesdk.framework.authorize.RegisterView
+cn.sharesdk.framework.authorize.RegisterView: cn.sharesdk.framework.TitleLayout a
+cn.sharesdk.framework.authorize.RegisterView: android.widget.RelativeLayout b
+cn.sharesdk.framework.authorize.RegisterView: android.webkit.WebView c
+cn.sharesdk.framework.authorize.RegisterView: RegisterView(android.content.Context)
+cn.sharesdk.framework.authorize.RegisterView: RegisterView(android.content.Context,android.util.AttributeSet)
+cn.sharesdk.framework.authorize.RegisterView: void a(android.content.Context)
+cn.sharesdk.framework.authorize.RegisterView: int b(android.content.Context)
+cn.sharesdk.framework.authorize.RegisterView: android.view.View a()
+cn.sharesdk.framework.authorize.RegisterView: void a(boolean)
+cn.sharesdk.framework.authorize.RegisterView: android.webkit.WebView b()
+cn.sharesdk.framework.authorize.RegisterView: cn.sharesdk.framework.TitleLayout c()
+cn.sharesdk.framework.authorize.RegisterView: android.widget.RelativeLayout d()
+cn.sharesdk.framework.authorize.ResizeLayout
+cn.sharesdk.framework.authorize.ResizeLayout: cn.sharesdk.framework.authorize.ResizeLayout$OnResizeListener a
+cn.sharesdk.framework.authorize.ResizeLayout: void a(cn.sharesdk.framework.authorize.ResizeLayout$OnResizeListener)
+cn.sharesdk.framework.authorize.ResizeLayout: ResizeLayout(android.content.Context)
+cn.sharesdk.framework.authorize.ResizeLayout: ResizeLayout(android.content.Context,android.util.AttributeSet)
+cn.sharesdk.framework.authorize.ResizeLayout: void onSizeChanged(int,int,int,int)
+cn.sharesdk.framework.authorize.ResizeLayout$OnResizeListener
+cn.sharesdk.framework.authorize.ResizeLayout$OnResizeListener: void OnResize(int,int,int,int)
+cn.sharesdk.framework.authorize.SSOListener
+cn.sharesdk.framework.authorize.SSOListener: void onFailed(java.lang.Throwable)
+cn.sharesdk.framework.authorize.SSOListener: void onCancel()
+cn.sharesdk.framework.authorize.SSOListener: void onComplete(android.os.Bundle)
+cn.sharesdk.framework.authorize.a
+cn.sharesdk.framework.authorize.a: cn.sharesdk.framework.authorize.AuthorizeHelper a
+cn.sharesdk.framework.authorize.a: a()
+cn.sharesdk.framework.authorize.a: void a(cn.sharesdk.framework.authorize.AuthorizeHelper)
+cn.sharesdk.framework.authorize.a: void show(android.content.Context,android.content.Intent)
+cn.sharesdk.framework.authorize.a: cn.sharesdk.framework.authorize.AuthorizeHelper a()
+cn.sharesdk.framework.authorize.b
+cn.sharesdk.framework.authorize.b: cn.sharesdk.framework.authorize.g a
+cn.sharesdk.framework.authorize.b: java.lang.String b
+cn.sharesdk.framework.authorize.b: cn.sharesdk.framework.authorize.AuthorizeListener c
+cn.sharesdk.framework.authorize.b: b(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.b: java.lang.String a()
+cn.sharesdk.framework.authorize.b: void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String)
+cn.sharesdk.framework.authorize.b: void onReceivedSslError(android.webkit.WebView,android.webkit.SslErrorHandler,android.net.http.SslError)
+cn.sharesdk.framework.authorize.c
+cn.sharesdk.framework.authorize.c: cn.sharesdk.framework.authorize.RegisterView a
+cn.sharesdk.framework.authorize.c: c(cn.sharesdk.framework.authorize.RegisterView)
+cn.sharesdk.framework.authorize.c: void onClick(android.view.View)
+cn.sharesdk.framework.authorize.d
+cn.sharesdk.framework.authorize.d: android.widget.TextView a
+cn.sharesdk.framework.authorize.d: int b
+cn.sharesdk.framework.authorize.d: cn.sharesdk.framework.authorize.RegisterView c
+cn.sharesdk.framework.authorize.d: d(cn.sharesdk.framework.authorize.RegisterView,android.widget.TextView,int)
+cn.sharesdk.framework.authorize.d: void onProgressChanged(android.webkit.WebView,int)
+cn.sharesdk.framework.authorize.e
+cn.sharesdk.framework.authorize.e: cn.sharesdk.framework.authorize.f c
+cn.sharesdk.framework.authorize.e: cn.sharesdk.framework.authorize.SSOListener b
+cn.sharesdk.framework.authorize.e: e()
+cn.sharesdk.framework.authorize.e: void a(cn.sharesdk.framework.authorize.SSOListener)
+cn.sharesdk.framework.authorize.e: void onCreate()
+cn.sharesdk.framework.authorize.e: void onActivityResult(int,int,android.content.Intent)
+cn.sharesdk.framework.authorize.e: void onNewIntent(android.content.Intent)
+cn.sharesdk.framework.authorize.f
+cn.sharesdk.framework.authorize.f: cn.sharesdk.framework.authorize.e a
+cn.sharesdk.framework.authorize.f: int b
+cn.sharesdk.framework.authorize.f: cn.sharesdk.framework.authorize.SSOListener c
+cn.sharesdk.framework.authorize.f: f(cn.sharesdk.framework.authorize.e)
+cn.sharesdk.framework.authorize.f: void a()
+cn.sharesdk.framework.authorize.f: void a(int)
+cn.sharesdk.framework.authorize.f: void a(int,int,android.content.Intent)
+cn.sharesdk.framework.authorize.f: void a(android.content.Intent)
+cn.sharesdk.framework.authorize.g
+cn.sharesdk.framework.authorize.g: cn.sharesdk.framework.authorize.AuthorizeAdapter c
+cn.sharesdk.framework.authorize.g: cn.sharesdk.framework.authorize.RegisterView d
+cn.sharesdk.framework.authorize.g: android.webkit.WebView e
+cn.sharesdk.framework.authorize.g: cn.sharesdk.framework.authorize.AuthorizeListener b
+cn.sharesdk.framework.authorize.g: g()
+cn.sharesdk.framework.authorize.g: void a(cn.sharesdk.framework.authorize.AuthorizeListener)
+cn.sharesdk.framework.authorize.g: void setActivity(android.app.Activity)
+cn.sharesdk.framework.authorize.g: cn.sharesdk.framework.authorize.AuthorizeAdapter c()
+cn.sharesdk.framework.authorize.g: void onCreate()
+cn.sharesdk.framework.authorize.g: cn.sharesdk.framework.authorize.RegisterView b()
+cn.sharesdk.framework.authorize.g: boolean handleMessage(android.os.Message)
+cn.sharesdk.framework.authorize.g: void OnResize(int,int,int,int)
+cn.sharesdk.framework.authorize.g: boolean onKeyEvent(int,android.view.KeyEvent)
+cn.sharesdk.framework.authorize.g: void onStart()
+cn.sharesdk.framework.authorize.g: void onPause()
+cn.sharesdk.framework.authorize.g: void onResume()
+cn.sharesdk.framework.authorize.g: void onStop()
+cn.sharesdk.framework.authorize.g: void onRestart()
+cn.sharesdk.framework.authorize.g: boolean onFinish()
+cn.sharesdk.framework.authorize.g: void onDestroy()
+cn.sharesdk.framework.authorize.g: android.app.Activity a(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.g: android.app.Activity b(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.g$a
+cn.sharesdk.framework.authorize.g$a: float[] a
+cn.sharesdk.framework.authorize.g$a: g$a()
+cn.sharesdk.framework.authorize.g$a: float getInterpolation(float)
+cn.sharesdk.framework.authorize.g$a: g$a(cn.sharesdk.framework.authorize.h)
+cn.sharesdk.framework.authorize.h
+cn.sharesdk.framework.authorize.h: cn.sharesdk.framework.authorize.g a
+cn.sharesdk.framework.authorize.h: h(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.h: void onClick(android.view.View)
+cn.sharesdk.framework.authorize.i
+cn.sharesdk.framework.authorize.i: cn.sharesdk.framework.authorize.h a
+cn.sharesdk.framework.authorize.i: i(cn.sharesdk.framework.authorize.h)
+cn.sharesdk.framework.authorize.i: void run()
+cn.sharesdk.framework.authorize.j
+cn.sharesdk.framework.authorize.j: cn.sharesdk.framework.authorize.g a
+cn.sharesdk.framework.authorize.j: j(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.framework.authorize.j: void run()
+cn.sharesdk.framework.b
+cn.sharesdk.framework.b: cn.sharesdk.framework.PlatformActionListener a
+cn.sharesdk.framework.b: b()
+cn.sharesdk.framework.b: void a(cn.sharesdk.framework.PlatformActionListener)
+cn.sharesdk.framework.b: cn.sharesdk.framework.PlatformActionListener a()
+cn.sharesdk.framework.b: void onError(cn.sharesdk.framework.Platform,int,java.lang.Throwable)
+cn.sharesdk.framework.b: void onComplete(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.b: void onCancel(cn.sharesdk.framework.Platform,int)
+cn.sharesdk.framework.b: void a(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.b: void b(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.b: void a(cn.sharesdk.framework.Platform,int,java.lang.Object)
+cn.sharesdk.framework.b: java.lang.String a(cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.b: java.lang.String b(cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.b: java.lang.String a(cn.sharesdk.framework.PlatformDb,java.lang.String[])
+cn.sharesdk.framework.b: cn.sharesdk.framework.PlatformActionListener a(cn.sharesdk.framework.b,cn.sharesdk.framework.PlatformActionListener)
+cn.sharesdk.framework.b: cn.sharesdk.framework.PlatformActionListener a(cn.sharesdk.framework.b)
+cn.sharesdk.framework.b: java.lang.String a(cn.sharesdk.framework.b,cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.b.a
+cn.sharesdk.framework.b.a: android.content.Context a
+cn.sharesdk.framework.b.a: cn.sharesdk.framework.b.a d
+cn.sharesdk.framework.b.a: java.lang.String b
+cn.sharesdk.framework.b.a: java.lang.String e
+cn.sharesdk.framework.b.a: java.lang.String f
+cn.sharesdk.framework.b.a: java.lang.String g
+cn.sharesdk.framework.b.a: java.lang.String c
+cn.sharesdk.framework.b.a: boolean h
+cn.sharesdk.framework.b.a: cn.sharesdk.framework.a.g i
+cn.sharesdk.framework.b.a: a()
+cn.sharesdk.framework.b.a: cn.sharesdk.framework.b.a a(android.content.Context)
+cn.sharesdk.framework.b.a: void a(boolean)
+cn.sharesdk.framework.b.a: java.lang.String c()
+cn.sharesdk.framework.b.a: java.lang.String d()
+cn.sharesdk.framework.b.a: java.lang.String e()
+cn.sharesdk.framework.b.a: java.lang.String f()
+cn.sharesdk.framework.b.a: long a()
+cn.sharesdk.framework.b.a: long a(java.lang.String)
+cn.sharesdk.framework.b.a: void a(cn.sharesdk.framework.b.b.c)
+cn.sharesdk.framework.b.a: java.lang.String b(java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String a(android.graphics.Bitmap)
+cn.sharesdk.framework.b.a: void b()
+cn.sharesdk.framework.b.a: boolean b(java.lang.String,java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String c(java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String a(java.lang.String,byte[])
+cn.sharesdk.framework.b.a: java.lang.String g()
+cn.sharesdk.framework.b.a: java.lang.String h()
+cn.sharesdk.framework.b.a: java.lang.String a(java.lang.String,java.lang.String,int,boolean,java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String a(java.lang.String,java.lang.String,java.lang.String,int,java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String c(java.lang.String,java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String d(java.lang.String)
+cn.sharesdk.framework.b.a: java.lang.String a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.b.a: void <clinit>()
+cn.sharesdk.framework.b.a.a
+cn.sharesdk.framework.b.a.a: a(android.content.Context)
+cn.sharesdk.framework.b.a.a: void onCreate(android.database.sqlite.SQLiteDatabase)
+cn.sharesdk.framework.b.a.a: void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)
+cn.sharesdk.framework.b.a.a: void onOpen(android.database.sqlite.SQLiteDatabase)
+cn.sharesdk.framework.b.a.a: void close()
+cn.sharesdk.framework.b.a.b
+cn.sharesdk.framework.b.a.b: android.content.Context a
+cn.sharesdk.framework.b.a.b: cn.sharesdk.framework.b.a.a b
+cn.sharesdk.framework.b.a.b: cn.sharesdk.framework.b.a.b c
+cn.sharesdk.framework.b.a.b: b(android.content.Context)
+cn.sharesdk.framework.b.a.b: cn.sharesdk.framework.b.a.b a(android.content.Context)
+cn.sharesdk.framework.b.a.b: android.database.Cursor a(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+cn.sharesdk.framework.b.a.b: long a(java.lang.String,android.content.ContentValues)
+cn.sharesdk.framework.b.a.b: int a(java.lang.String,java.lang.String,java.lang.String[])
+cn.sharesdk.framework.b.a.b: int a(java.lang.String)
+cn.sharesdk.framework.b.a.b: void <clinit>()
+cn.sharesdk.framework.b.a.c
+cn.sharesdk.framework.b.a.c: android.content.Context a
+cn.sharesdk.framework.b.a.c: android.content.SharedPreferences b
+cn.sharesdk.framework.b.a.c: cn.sharesdk.framework.b.a.c c
+cn.sharesdk.framework.b.a.c: c(android.content.Context)
+cn.sharesdk.framework.b.a.c: cn.sharesdk.framework.b.a.c a(android.content.Context)
+cn.sharesdk.framework.b.a.c: void a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.b.a.c: void a(java.lang.String,java.lang.Long)
+cn.sharesdk.framework.b.a.c: long a(java.lang.String)
+cn.sharesdk.framework.b.a.c: void a(java.lang.String,int)
+cn.sharesdk.framework.b.a.c: int b(java.lang.String)
+cn.sharesdk.framework.b.a.c: long a()
+cn.sharesdk.framework.b.a.c: boolean b()
+cn.sharesdk.framework.b.a.c: boolean c()
+cn.sharesdk.framework.b.a.c: int d()
+cn.sharesdk.framework.b.a.c: void c(java.lang.String)
+cn.sharesdk.framework.b.a.c: void d(java.lang.String)
+cn.sharesdk.framework.b.a.c: void e(java.lang.String)
+cn.sharesdk.framework.b.a.d
+cn.sharesdk.framework.b.a.d: java.lang.String a
+cn.sharesdk.framework.b.a.d: java.util.ArrayList b
+cn.sharesdk.framework.b.a.d: d()
+cn.sharesdk.framework.b.a.e
+cn.sharesdk.framework.b.a.e: int a
+cn.sharesdk.framework.b.a.e: int b
+cn.sharesdk.framework.b.a.e: int c
+cn.sharesdk.framework.b.a.e: long a(android.content.Context,java.lang.String,long)
+cn.sharesdk.framework.b.a.e: long a(android.content.Context,java.util.ArrayList)
+cn.sharesdk.framework.b.a.e: java.util.ArrayList a(android.content.Context,java.lang.String,java.lang.String[])
+cn.sharesdk.framework.b.a.e: java.util.ArrayList a(android.content.Context)
+cn.sharesdk.framework.b.a.e: void <clinit>()
+cn.sharesdk.framework.b.b
+cn.sharesdk.framework.b.b: cn.sharesdk.framework.b.b a
+cn.sharesdk.framework.b.b: android.content.Context b
+cn.sharesdk.framework.b.b: cn.sharesdk.framework.utils.b c
+cn.sharesdk.framework.b.b: java.lang.String d
+cn.sharesdk.framework.b.b: boolean e
+cn.sharesdk.framework.b.b: android.os.Handler f
+cn.sharesdk.framework.b.b: android.os.Handler g
+cn.sharesdk.framework.b.b: long h
+cn.sharesdk.framework.b.b: boolean i
+cn.sharesdk.framework.b.b: cn.sharesdk.framework.b.b a(android.content.Context)
+cn.sharesdk.framework.b.b: b(android.content.Context)
+cn.sharesdk.framework.b.b: void a(java.lang.String)
+cn.sharesdk.framework.b.b: void a(android.os.Handler,boolean)
+cn.sharesdk.framework.b.b: void a()
+cn.sharesdk.framework.b.b: void a(cn.sharesdk.framework.b.b.c)
+cn.sharesdk.framework.b.b: void b(cn.sharesdk.framework.b.b.c)
+cn.sharesdk.framework.b.b: boolean handleMessage(android.os.Message)
+cn.sharesdk.framework.b.b: void c(cn.sharesdk.framework.b.b.c)
+cn.sharesdk.framework.b.b: void b()
+cn.sharesdk.framework.b.b: boolean c()
+cn.sharesdk.framework.b.b: void d()
+cn.sharesdk.framework.b.b.a
+cn.sharesdk.framework.b.b.a: int c
+cn.sharesdk.framework.b.b.a: long d
+cn.sharesdk.framework.b.b.a: int a
+cn.sharesdk.framework.b.b.a: java.lang.String b
+cn.sharesdk.framework.b.b.a: a()
+cn.sharesdk.framework.b.b.a: java.lang.String a()
+cn.sharesdk.framework.b.b.a: java.lang.String toString()
+cn.sharesdk.framework.b.b.a: int b()
+cn.sharesdk.framework.b.b.a: int c()
+cn.sharesdk.framework.b.b.a: long d()
+cn.sharesdk.framework.b.b.a: long e()
+cn.sharesdk.framework.b.b.a: void f()
+cn.sharesdk.framework.b.b.a: void a(long)
+cn.sharesdk.framework.b.b.b
+cn.sharesdk.framework.b.b.b: int n
+cn.sharesdk.framework.b.b.b: long o
+cn.sharesdk.framework.b.b.b: int a
+cn.sharesdk.framework.b.b.b: java.lang.String b
+cn.sharesdk.framework.b.b.b: java.lang.String c
+cn.sharesdk.framework.b.b.b: java.lang.String d
+cn.sharesdk.framework.b.b.b: b()
+cn.sharesdk.framework.b.b.b: java.lang.String a()
+cn.sharesdk.framework.b.b.b: java.lang.String toString()
+cn.sharesdk.framework.b.b.b: int b()
+cn.sharesdk.framework.b.b.b: int c()
+cn.sharesdk.framework.b.b.b: long d()
+cn.sharesdk.framework.b.b.b: long e()
+cn.sharesdk.framework.b.b.b: void f()
+cn.sharesdk.framework.b.b.b: void a(long)
+cn.sharesdk.framework.b.b.c
+cn.sharesdk.framework.b.b.c: long e
+cn.sharesdk.framework.b.b.c: java.lang.String f
+cn.sharesdk.framework.b.b.c: java.lang.String g
+cn.sharesdk.framework.b.b.c: java.lang.String h
+cn.sharesdk.framework.b.b.c: int i
+cn.sharesdk.framework.b.b.c: java.lang.String j
+cn.sharesdk.framework.b.b.c: int k
+cn.sharesdk.framework.b.b.c: java.lang.String l
+cn.sharesdk.framework.b.b.c: java.lang.String m
+cn.sharesdk.framework.b.b.c: c()
+cn.sharesdk.framework.b.b.c: java.lang.String a()
+cn.sharesdk.framework.b.b.c: int b()
+cn.sharesdk.framework.b.b.c: int c()
+cn.sharesdk.framework.b.b.c: long e()
+cn.sharesdk.framework.b.b.c: long d()
+cn.sharesdk.framework.b.b.c: void a(long)
+cn.sharesdk.framework.b.b.c: void f()
+cn.sharesdk.framework.b.b.c: boolean a(android.content.Context)
+cn.sharesdk.framework.b.b.c: void b(android.content.Context)
+cn.sharesdk.framework.b.b.c: java.lang.String toString()
+cn.sharesdk.framework.b.b.d
+cn.sharesdk.framework.b.b.d: int d
+cn.sharesdk.framework.b.b.d: long n
+cn.sharesdk.framework.b.b.d: java.lang.String a
+cn.sharesdk.framework.b.b.d: int b
+cn.sharesdk.framework.b.b.d: java.lang.String c
+cn.sharesdk.framework.b.b.d: d()
+cn.sharesdk.framework.b.b.d: java.lang.String a()
+cn.sharesdk.framework.b.b.d: java.lang.String toString()
+cn.sharesdk.framework.b.b.d: int b()
+cn.sharesdk.framework.b.b.d: int c()
+cn.sharesdk.framework.b.b.d: long d()
+cn.sharesdk.framework.b.b.d: long e()
+cn.sharesdk.framework.b.b.d: void f()
+cn.sharesdk.framework.b.b.d: void a(long)
+cn.sharesdk.framework.b.b.e
+cn.sharesdk.framework.b.b.e: int b
+cn.sharesdk.framework.b.b.e: long c
+cn.sharesdk.framework.b.b.e: long a
+cn.sharesdk.framework.b.b.e: e()
+cn.sharesdk.framework.b.b.e: java.lang.String a()
+cn.sharesdk.framework.b.b.e: int b()
+cn.sharesdk.framework.b.b.e: int c()
+cn.sharesdk.framework.b.b.e: boolean a(android.content.Context)
+cn.sharesdk.framework.b.b.e: void b(android.content.Context)
+cn.sharesdk.framework.b.b.e: long d()
+cn.sharesdk.framework.b.b.e: long e()
+cn.sharesdk.framework.b.b.e: void f()
+cn.sharesdk.framework.b.b.e: void a(long)
+cn.sharesdk.framework.b.b.e: java.lang.String toString()
+cn.sharesdk.framework.b.b.f
+cn.sharesdk.framework.b.b.f: int p
+cn.sharesdk.framework.b.b.f: long q
+cn.sharesdk.framework.b.b.f: int a
+cn.sharesdk.framework.b.b.f: java.lang.String b
+cn.sharesdk.framework.b.b.f: java.lang.String c
+cn.sharesdk.framework.b.b.f: java.lang.String d
+cn.sharesdk.framework.b.b.f: cn.sharesdk.framework.b.b.f$a n
+cn.sharesdk.framework.b.b.f: java.lang.String o
+cn.sharesdk.framework.b.b.f: f()
+cn.sharesdk.framework.b.b.f: java.lang.String a()
+cn.sharesdk.framework.b.b.f: java.lang.String toString()
+cn.sharesdk.framework.b.b.f: int b()
+cn.sharesdk.framework.b.b.f: int c()
+cn.sharesdk.framework.b.b.f: long d()
+cn.sharesdk.framework.b.b.f: long e()
+cn.sharesdk.framework.b.b.f: void f()
+cn.sharesdk.framework.b.b.f: void a(long)
+cn.sharesdk.framework.b.b.f$a
+cn.sharesdk.framework.b.b.f$a: java.lang.String a
+cn.sharesdk.framework.b.b.f$a: java.lang.String b
+cn.sharesdk.framework.b.b.f$a: java.util.ArrayList c
+cn.sharesdk.framework.b.b.f$a: java.util.ArrayList d
+cn.sharesdk.framework.b.b.f$a: java.util.ArrayList e
+cn.sharesdk.framework.b.b.f$a: java.util.ArrayList f
+cn.sharesdk.framework.b.b.f$a: java.util.HashMap g
+cn.sharesdk.framework.b.b.f$a: f$a()
+cn.sharesdk.framework.b.b.f$a: java.lang.String toString()
+cn.sharesdk.framework.b.b.g
+cn.sharesdk.framework.b.b.g: int a
+cn.sharesdk.framework.b.b.g: long b
+cn.sharesdk.framework.b.b.g: g()
+cn.sharesdk.framework.b.b.g: java.lang.String a()
+cn.sharesdk.framework.b.b.g: int b()
+cn.sharesdk.framework.b.b.g: int c()
+cn.sharesdk.framework.b.b.g: boolean a(android.content.Context)
+cn.sharesdk.framework.b.b.g: void b(android.content.Context)
+cn.sharesdk.framework.b.b.g: long d()
+cn.sharesdk.framework.b.b.g: long e()
+cn.sharesdk.framework.b.b.g: void f()
+cn.sharesdk.framework.b.b.g: void a(long)
+cn.sharesdk.framework.b.b.g: java.lang.String toString()
+cn.sharesdk.framework.c
+cn.sharesdk.framework.c: cn.sharesdk.framework.PlatformActionListener a
+cn.sharesdk.framework.c: int b
+cn.sharesdk.framework.c: java.util.HashMap c
+cn.sharesdk.framework.c: cn.sharesdk.framework.b d
+cn.sharesdk.framework.c: c(cn.sharesdk.framework.b,cn.sharesdk.framework.PlatformActionListener,int,java.util.HashMap)
+cn.sharesdk.framework.c: void onComplete(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.c: void onError(cn.sharesdk.framework.Platform,int,java.lang.Throwable)
+cn.sharesdk.framework.c: void onCancel(cn.sharesdk.framework.Platform,int)
+cn.sharesdk.framework.d
+cn.sharesdk.framework.d: cn.sharesdk.framework.PlatformActionListener a
+cn.sharesdk.framework.d: int b
+cn.sharesdk.framework.d: java.lang.Object c
+cn.sharesdk.framework.d: cn.sharesdk.framework.b d
+cn.sharesdk.framework.d: d(cn.sharesdk.framework.b,cn.sharesdk.framework.PlatformActionListener,int,java.lang.Object)
+cn.sharesdk.framework.d: void onError(cn.sharesdk.framework.Platform,int,java.lang.Throwable)
+cn.sharesdk.framework.d: void onComplete(cn.sharesdk.framework.Platform,int,java.util.HashMap)
+cn.sharesdk.framework.d: void onCancel(cn.sharesdk.framework.Platform,int)
+cn.sharesdk.framework.e
+cn.sharesdk.framework.e: java.lang.String TEXT
+cn.sharesdk.framework.e: java.lang.String IMAGE_PATH
+cn.sharesdk.framework.e: java.lang.String FILE_PATH
+cn.sharesdk.framework.e: java.lang.String TITLE
+cn.sharesdk.framework.e: java.lang.String NOTEBOOK
+cn.sharesdk.framework.e: java.lang.String STACK
+cn.sharesdk.framework.e: java.lang.String TAGS
+cn.sharesdk.framework.e: java.lang.String IS_PUBLIC
+cn.sharesdk.framework.e: java.lang.String IS_FRIEND
+cn.sharesdk.framework.e: java.lang.String IS_FAMILY
+cn.sharesdk.framework.e: java.lang.String SAFETY_LEVEL
+cn.sharesdk.framework.e: java.lang.String CONTENT_TYPE
+cn.sharesdk.framework.e: java.lang.String HIDDEN
+cn.sharesdk.framework.e: java.lang.String VENUE_NAME
+cn.sharesdk.framework.e: java.lang.String VENUE_DESCRIPTION
+cn.sharesdk.framework.e: java.lang.String LATITUDE
+cn.sharesdk.framework.e: java.lang.String LONGITUDE
+cn.sharesdk.framework.e: java.lang.String IMAGE_URL
+cn.sharesdk.framework.e: java.lang.String COMMENT
+cn.sharesdk.framework.e: java.lang.String TITLE_URL
+cn.sharesdk.framework.e: java.lang.String URL
+cn.sharesdk.framework.e: java.lang.String ADDRESS
+cn.sharesdk.framework.e: java.lang.String SITE
+cn.sharesdk.framework.e: java.lang.String SITE_URL
+cn.sharesdk.framework.e: java.lang.String GROPU_ID
+cn.sharesdk.framework.e: java.lang.String EXT_INFO
+cn.sharesdk.framework.e: java.lang.String SHARE_TYPE
+cn.sharesdk.framework.e: java.lang.String MUSIC_URL
+cn.sharesdk.framework.e: java.lang.String IMAGE_DATA
+cn.sharesdk.framework.e: java.lang.String AUTHOR
+cn.sharesdk.framework.e: java.lang.String SCENCE
+cn.sharesdk.framework.e: java.util.HashMap params
+cn.sharesdk.framework.e: e()
+cn.sharesdk.framework.e: e(java.util.HashMap)
+cn.sharesdk.framework.e: e(java.lang.String)
+cn.sharesdk.framework.e: void set(java.lang.String,java.lang.Object)
+cn.sharesdk.framework.e: java.lang.Object get(java.lang.String,java.lang.Class)
+cn.sharesdk.framework.e: java.util.HashMap toMap()
+cn.sharesdk.framework.e: java.lang.String toString()
+cn.sharesdk.framework.e: void setText(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getText()
+cn.sharesdk.framework.e: void setImagePath(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getImagePath()
+cn.sharesdk.framework.e: void setImageUrl(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getImageUrl()
+cn.sharesdk.framework.e: void setFilePath(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getFilePath()
+cn.sharesdk.framework.e: java.lang.String getTitle()
+cn.sharesdk.framework.e: void setTitle(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getNotebook()
+cn.sharesdk.framework.e: void setNotebook(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getStack()
+cn.sharesdk.framework.e: void setStack(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String[] getTags()
+cn.sharesdk.framework.e: void setTags(java.lang.String[])
+cn.sharesdk.framework.e: boolean isPublic()
+cn.sharesdk.framework.e: void setPublic(boolean)
+cn.sharesdk.framework.e: boolean isFriend()
+cn.sharesdk.framework.e: void setFriend(boolean)
+cn.sharesdk.framework.e: boolean isFamily()
+cn.sharesdk.framework.e: void setFamily(boolean)
+cn.sharesdk.framework.e: int getSafetyLevel()
+cn.sharesdk.framework.e: void setSafetyLevel(int)
+cn.sharesdk.framework.e: int getContentType()
+cn.sharesdk.framework.e: void setContentType(int)
+cn.sharesdk.framework.e: int getHidden()
+cn.sharesdk.framework.e: void setHidden(int)
+cn.sharesdk.framework.e: void setVenueName(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getVenueName()
+cn.sharesdk.framework.e: java.lang.String getVenueDescription()
+cn.sharesdk.framework.e: void setVenueDescription(java.lang.String)
+cn.sharesdk.framework.e: float getLatitude()
+cn.sharesdk.framework.e: void setLatitude(float)
+cn.sharesdk.framework.e: float getLongitude()
+cn.sharesdk.framework.e: void setLongitude(float)
+cn.sharesdk.framework.e: java.lang.String getTitleUrl()
+cn.sharesdk.framework.e: void setTitleUrl(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getComment()
+cn.sharesdk.framework.e: void setComment(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getUrl()
+cn.sharesdk.framework.e: void setUrl(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getAddress()
+cn.sharesdk.framework.e: void setAddress(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getMusicUrl()
+cn.sharesdk.framework.e: void setMusicUrl(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getSite()
+cn.sharesdk.framework.e: void setSite(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getSiteUrl()
+cn.sharesdk.framework.e: void setSiteUrl(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getGroupId()
+cn.sharesdk.framework.e: void setGroupId(java.lang.String)
+cn.sharesdk.framework.e: java.lang.String getAuthor()
+cn.sharesdk.framework.e: void setAuthor(java.lang.String)
+cn.sharesdk.framework.e: android.graphics.Bitmap getImageData()
+cn.sharesdk.framework.e: void setImageData(android.graphics.Bitmap)
+cn.sharesdk.framework.e: int getShareType()
+cn.sharesdk.framework.e: void setShareType(int)
+cn.sharesdk.framework.e: int getScence()
+cn.sharesdk.framework.e: void setScence(int)
+cn.sharesdk.framework.e: java.lang.String getExtInfo()
+cn.sharesdk.framework.e: void setExtInfo(java.lang.String)
+cn.sharesdk.framework.f
+cn.sharesdk.framework.f: cn.sharesdk.framework.Platform a
+cn.sharesdk.framework.f: cn.sharesdk.framework.authorize.AuthorizeListener b
+cn.sharesdk.framework.f: cn.sharesdk.framework.authorize.SSOListener c
+cn.sharesdk.framework.f: f(cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.f: cn.sharesdk.framework.Platform getPlatform()
+cn.sharesdk.framework.f: cn.sharesdk.framework.authorize.f getSSOProcessor(cn.sharesdk.framework.authorize.e)
+cn.sharesdk.framework.f: int c()
+cn.sharesdk.framework.f: void b(cn.sharesdk.framework.authorize.AuthorizeListener)
+cn.sharesdk.framework.f: cn.sharesdk.framework.authorize.AuthorizeListener getAuthorizeListener()
+cn.sharesdk.framework.f: void a(cn.sharesdk.framework.authorize.SSOListener)
+cn.sharesdk.framework.f: cn.sharesdk.framework.authorize.SSOListener getSSOListener()
+cn.sharesdk.framework.g
+cn.sharesdk.framework.g: cn.sharesdk.framework.Platform a
+cn.sharesdk.framework.g: android.content.Context b
+cn.sharesdk.framework.g: cn.sharesdk.framework.PlatformDb c
+cn.sharesdk.framework.g: cn.sharesdk.framework.b d
+cn.sharesdk.framework.g: int e
+cn.sharesdk.framework.g: int f
+cn.sharesdk.framework.g: boolean g
+cn.sharesdk.framework.g: boolean h
+cn.sharesdk.framework.g: boolean i
+cn.sharesdk.framework.g: g(cn.sharesdk.framework.Platform,android.content.Context)
+cn.sharesdk.framework.g: void a(java.lang.String)
+cn.sharesdk.framework.g: int a()
+cn.sharesdk.framework.g: int b()
+cn.sharesdk.framework.g: void a(cn.sharesdk.framework.PlatformActionListener)
+cn.sharesdk.framework.g: cn.sharesdk.framework.PlatformActionListener c()
+cn.sharesdk.framework.g: boolean d()
+cn.sharesdk.framework.g: void a(boolean)
+cn.sharesdk.framework.g: boolean e()
+cn.sharesdk.framework.g: boolean f()
+cn.sharesdk.framework.g: void a(java.lang.String[])
+cn.sharesdk.framework.g: boolean j()
+cn.sharesdk.framework.g: java.lang.String a(int,java.lang.String,java.lang.String)
+cn.sharesdk.framework.g: void a(int,java.lang.Object)
+cn.sharesdk.framework.g: void b(int,java.lang.Object)
+cn.sharesdk.framework.g: void c(int,java.lang.Object)
+cn.sharesdk.framework.g: void a(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.framework.g: void b(java.lang.String)
+cn.sharesdk.framework.g: void a(java.lang.String,int,int)
+cn.sharesdk.framework.g: void c(java.lang.String)
+cn.sharesdk.framework.g: void a(int,int,java.lang.String)
+cn.sharesdk.framework.g: void a(java.lang.String,java.lang.String,short,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.framework.g: cn.sharesdk.framework.PlatformDb g()
+cn.sharesdk.framework.g: void h()
+cn.sharesdk.framework.g: java.lang.String a(java.lang.String,boolean)
+cn.sharesdk.framework.g: java.lang.String k()
+cn.sharesdk.framework.g: cn.sharesdk.framework.PlatformActionListener i()
+cn.sharesdk.framework.g: java.lang.String d(java.lang.String)
+cn.sharesdk.framework.g: java.lang.String a(android.graphics.Bitmap)
+cn.sharesdk.framework.g: boolean a(cn.sharesdk.framework.g)
+cn.sharesdk.framework.g: cn.sharesdk.framework.Platform b(cn.sharesdk.framework.g)
+cn.sharesdk.framework.h
+cn.sharesdk.framework.h: java.lang.String[] a
+cn.sharesdk.framework.h: cn.sharesdk.framework.g b
+cn.sharesdk.framework.h: h(cn.sharesdk.framework.g,java.lang.String[])
+cn.sharesdk.framework.h: void run()
+cn.sharesdk.framework.i
+cn.sharesdk.framework.i: int a
+cn.sharesdk.framework.i: java.lang.Object b
+cn.sharesdk.framework.i: cn.sharesdk.framework.g c
+cn.sharesdk.framework.i: i(cn.sharesdk.framework.g,int,java.lang.Object)
+cn.sharesdk.framework.i: void run()
+cn.sharesdk.framework.j
+cn.sharesdk.framework.j: j()
+cn.sharesdk.framework.j: boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String)
+cn.sharesdk.framework.j: void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap)
+cn.sharesdk.framework.j: void onPageFinished(android.webkit.WebView,java.lang.String)
+cn.sharesdk.framework.j: void onLoadResource(android.webkit.WebView,java.lang.String)
+cn.sharesdk.framework.j: void onTooManyRedirects(android.webkit.WebView,android.os.Message,android.os.Message)
+cn.sharesdk.framework.j: void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String)
+cn.sharesdk.framework.j: void onFormResubmission(android.webkit.WebView,android.os.Message,android.os.Message)
+cn.sharesdk.framework.j: void doUpdateVisitedHistory(android.webkit.WebView,java.lang.String,boolean)
+cn.sharesdk.framework.j: void onReceivedSslError(android.webkit.WebView,android.webkit.SslErrorHandler,android.net.http.SslError)
+cn.sharesdk.framework.j: void onReceivedHttpAuthRequest(android.webkit.WebView,android.webkit.HttpAuthHandler,java.lang.String,java.lang.String)
+cn.sharesdk.framework.j: boolean shouldOverrideKeyEvent(android.webkit.WebView,android.view.KeyEvent)
+cn.sharesdk.framework.j: void onUnhandledKeyEvent(android.webkit.WebView,android.view.KeyEvent)
+cn.sharesdk.framework.j: void onScaleChanged(android.webkit.WebView,float,float)
+cn.sharesdk.framework.k
+cn.sharesdk.framework.k: boolean a
+cn.sharesdk.framework.k: k()
+cn.sharesdk.framework.k: java.util.ArrayList a(android.content.Context)
+cn.sharesdk.framework.k: android.content.pm.PackageInfo c(android.content.Context)
+cn.sharesdk.framework.k: java.util.ArrayList a(android.content.pm.PackageInfo,android.content.Context)
+cn.sharesdk.framework.k: java.util.ArrayList d(android.content.Context)
+cn.sharesdk.framework.k: void a(java.util.ArrayList)
+cn.sharesdk.framework.k: void a(android.content.Context,java.lang.String,android.os.Handler,boolean)
+cn.sharesdk.framework.k: void b(android.content.Context)
+cn.sharesdk.framework.k: void a(int,cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.k: void a(java.lang.String,int)
+cn.sharesdk.framework.k: void a(cn.sharesdk.framework.m)
+cn.sharesdk.framework.k: java.lang.String a(int,java.lang.String,java.util.HashMap)
+cn.sharesdk.framework.k: boolean a(java.util.HashMap,java.util.HashMap)
+cn.sharesdk.framework.k: java.lang.String a(android.content.Context,java.lang.String,java.lang.String,boolean,int,java.lang.String)
+cn.sharesdk.framework.k: java.lang.String a(android.content.Context,java.lang.String)
+cn.sharesdk.framework.k: java.lang.String a(android.content.Context,android.graphics.Bitmap)
+cn.sharesdk.framework.k: java.lang.String a()
+cn.sharesdk.framework.k: int b()
+cn.sharesdk.framework.k: void <clinit>()
+cn.sharesdk.framework.l
+cn.sharesdk.framework.l: cn.sharesdk.framework.k a
+cn.sharesdk.framework.l: l(cn.sharesdk.framework.k)
+cn.sharesdk.framework.l: int a(cn.sharesdk.framework.Platform,cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.l: int compare(java.lang.Object,java.lang.Object)
+cn.sharesdk.framework.m
+cn.sharesdk.framework.m: android.content.Context a
+cn.sharesdk.framework.m: android.os.Handler b
+cn.sharesdk.framework.m: java.util.HashMap c
+cn.sharesdk.framework.m: cn.sharesdk.framework.m$a d
+cn.sharesdk.framework.m: java.lang.String e
+cn.sharesdk.framework.m: java.lang.String f
+cn.sharesdk.framework.m: boolean g
+cn.sharesdk.framework.m: boolean h
+cn.sharesdk.framework.m: java.util.ArrayList i
+cn.sharesdk.framework.m: java.util.HashMap j
+cn.sharesdk.framework.m: java.util.HashMap k
+cn.sharesdk.framework.m: java.util.HashMap l
+cn.sharesdk.framework.m: boolean m
+cn.sharesdk.framework.m: m(android.content.Context)
+cn.sharesdk.framework.m: void a(java.lang.String,boolean)
+cn.sharesdk.framework.m: void d(java.lang.String)
+cn.sharesdk.framework.m: void h()
+cn.sharesdk.framework.m: void a()
+cn.sharesdk.framework.m: cn.sharesdk.framework.Platform[] b()
+cn.sharesdk.framework.m: cn.sharesdk.framework.Platform a(java.lang.String)
+cn.sharesdk.framework.m: boolean handleMessage(android.os.Message)
+cn.sharesdk.framework.m: void i()
+cn.sharesdk.framework.m: void j()
+cn.sharesdk.framework.m: void k()
+cn.sharesdk.framework.m: void a(java.lang.Class)
+cn.sharesdk.framework.m: void b(java.lang.Class)
+cn.sharesdk.framework.m: void c(java.lang.Class)
+cn.sharesdk.framework.m: void d(java.lang.Class)
+cn.sharesdk.framework.m: cn.sharesdk.framework.Service e(java.lang.Class)
+cn.sharesdk.framework.m: void a(int)
+cn.sharesdk.framework.m: void b(int)
+cn.sharesdk.framework.m: void a(boolean)
+cn.sharesdk.framework.m: boolean c()
+cn.sharesdk.framework.m: void a(int,cn.sharesdk.framework.Platform)
+cn.sharesdk.framework.m: void a(java.lang.String,int)
+cn.sharesdk.framework.m: void a(java.lang.String,java.util.HashMap)
+cn.sharesdk.framework.m: java.lang.String c(int)
+cn.sharesdk.framework.m: int b(java.lang.String)
+cn.sharesdk.framework.m: boolean d()
+cn.sharesdk.framework.m: java.lang.String a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.m: java.lang.String a(int,java.lang.String)
+cn.sharesdk.framework.m: boolean e()
+cn.sharesdk.framework.m: boolean a(java.util.HashMap)
+cn.sharesdk.framework.m: boolean b(java.util.HashMap)
+cn.sharesdk.framework.m: java.lang.String a(java.lang.String,boolean,int,java.lang.String)
+cn.sharesdk.framework.m: java.lang.String c(java.lang.String)
+cn.sharesdk.framework.m: java.lang.String a(android.graphics.Bitmap)
+cn.sharesdk.framework.m: java.lang.String f()
+cn.sharesdk.framework.m: int g()
+cn.sharesdk.framework.m$a
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a a
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a b
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a c
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a[] d
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a[] values()
+cn.sharesdk.framework.m$a: cn.sharesdk.framework.m$a valueOf(java.lang.String)
+cn.sharesdk.framework.m$a: m$a(java.lang.String,int)
+cn.sharesdk.framework.m$a: void <clinit>()
+cn.sharesdk.framework.n
+cn.sharesdk.framework.n: android.widget.ImageView a
+cn.sharesdk.framework.n: cn.sharesdk.framework.TitleLayout b
+cn.sharesdk.framework.n: n(cn.sharesdk.framework.TitleLayout,android.content.Context,android.widget.ImageView)
+cn.sharesdk.framework.n: void setVisibility(int)
+cn.sharesdk.framework.utils.BitmapHelper
+cn.sharesdk.framework.utils.BitmapHelper: BitmapHelper()
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.lang.String,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.io.File,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap a(java.io.InputStream,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(java.lang.String)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap getBitmap(android.content.Context,java.lang.String)
+cn.sharesdk.framework.utils.BitmapHelper: java.lang.String saveViewToImage(android.view.View)
+cn.sharesdk.framework.utils.BitmapHelper: java.lang.String saveViewToImage(android.view.View,int,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap captureView(android.view.View,int,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap blur(android.graphics.Bitmap,int,int)
+cn.sharesdk.framework.utils.BitmapHelper: android.graphics.Bitmap a(android.graphics.Bitmap,int,boolean)
+cn.sharesdk.framework.utils.Escaper
+cn.sharesdk.framework.utils.Escaper: java.lang.String escape(java.lang.String)
+cn.sharesdk.framework.utils.Escaper: java.lang.Appendable escape(java.lang.Appendable)
+cn.sharesdk.framework.utils.R
+cn.sharesdk.framework.utils.R: float a
+cn.sharesdk.framework.utils.R: R()
+cn.sharesdk.framework.utils.R: int dipToPx(android.content.Context,int)
+cn.sharesdk.framework.utils.R: int pxToDip(android.content.Context,int)
+cn.sharesdk.framework.utils.R: int getScreenWidth(android.content.Context)
+cn.sharesdk.framework.utils.R: int getScreenHeight(android.content.Context)
+cn.sharesdk.framework.utils.R: int getResId(java.lang.Class,java.lang.String)
+cn.sharesdk.framework.utils.R: int getBitmapRes(android.content.Context,java.lang.String)
+cn.sharesdk.framework.utils.R: int getStringRes(android.content.Context,java.lang.String)
+cn.sharesdk.framework.utils.R: java.lang.String getCachePath(android.content.Context,java.lang.String)
+cn.sharesdk.framework.utils.R: java.lang.String toWordText(java.lang.String,int)
+cn.sharesdk.framework.utils.R: android.net.Uri pathToContentUri(android.content.Context,java.lang.String)
+cn.sharesdk.framework.utils.R: long strToDate(java.lang.String)
+cn.sharesdk.framework.utils.R: long dateStrToLong(java.lang.String)
+cn.sharesdk.framework.utils.R: java.util.Date longToDate(long)
+cn.sharesdk.framework.utils.R: java.lang.String longToTime(long,int)
+cn.sharesdk.framework.utils.R: long parseTwitterDate(java.lang.String)
+cn.sharesdk.framework.utils.R: java.lang.String encodeUrl(android.os.Bundle)
+cn.sharesdk.framework.utils.R: java.lang.String encodeUrl(java.util.ArrayList)
+cn.sharesdk.framework.utils.R: android.os.Bundle urlToBundle(java.lang.String)
+cn.sharesdk.framework.utils.R: android.os.Bundle decodeUrl(java.lang.String)
+cn.sharesdk.framework.utils.UIHandler
+cn.sharesdk.framework.utils.UIHandler: android.os.Handler handler
+cn.sharesdk.framework.utils.UIHandler: UIHandler()
+cn.sharesdk.framework.utils.UIHandler: void prepare()
+cn.sharesdk.framework.utils.UIHandler: void handleMessage(android.os.Message)
+cn.sharesdk.framework.utils.UIHandler: android.os.Message getShellMessage(android.os.Message,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: android.os.Message getShellMessage(int,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendMessage(android.os.Message,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendMessageDelayed(android.os.Message,long,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendMessageAtTime(android.os.Message,long,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendMessageAtFrontOfQueue(android.os.Message,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendEmptyMessage(int,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendEmptyMessageAtTime(int,long,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: boolean sendEmptyMessageDelayed(int,long,android.os.Handler$Callback)
+cn.sharesdk.framework.utils.UIHandler: void access$000(android.os.Message)
+cn.sharesdk.framework.utils.a
+cn.sharesdk.framework.utils.a: cn.sharesdk.framework.utils.d a
+cn.sharesdk.framework.utils.a: byte[] a(java.lang.String)
+cn.sharesdk.framework.utils.a: byte[] a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.a: byte[] a(byte[],java.lang.String)
+cn.sharesdk.framework.utils.a: byte[] a(byte[],byte[])
+cn.sharesdk.framework.utils.a: java.lang.String a(byte[])
+cn.sharesdk.framework.utils.a: java.lang.String b(java.lang.String)
+cn.sharesdk.framework.utils.a: byte[] c(java.lang.String)
+cn.sharesdk.framework.utils.a: java.lang.String b(java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.a: java.lang.String c(java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.a: java.lang.String d(java.lang.String)
+cn.sharesdk.framework.utils.a: void <clinit>()
+cn.sharesdk.framework.utils.b
+cn.sharesdk.framework.utils.b: android.content.Context a
+cn.sharesdk.framework.utils.b: cn.sharesdk.framework.utils.b b
+cn.sharesdk.framework.utils.b: b(android.content.Context)
+cn.sharesdk.framework.utils.b: cn.sharesdk.framework.utils.b a(android.content.Context)
+cn.sharesdk.framework.utils.b: java.lang.String a()
+cn.sharesdk.framework.utils.b: java.lang.String b()
+cn.sharesdk.framework.utils.b: java.lang.String c()
+cn.sharesdk.framework.utils.b: java.lang.String d()
+cn.sharesdk.framework.utils.b: java.lang.String e()
+cn.sharesdk.framework.utils.b: java.lang.String f()
+cn.sharesdk.framework.utils.b: java.lang.String a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.b: java.lang.String g()
+cn.sharesdk.framework.utils.b: java.lang.String h()
+cn.sharesdk.framework.utils.b: java.lang.String i()
+cn.sharesdk.framework.utils.b: java.lang.String j()
+cn.sharesdk.framework.utils.b: java.lang.Object b(java.lang.String)
+cn.sharesdk.framework.utils.b: java.lang.String k()
+cn.sharesdk.framework.utils.b: java.lang.String l()
+cn.sharesdk.framework.utils.b: int m()
+cn.sharesdk.framework.utils.b: boolean x()
+cn.sharesdk.framework.utils.b: org.json.JSONArray n()
+cn.sharesdk.framework.utils.b: java.lang.String o()
+cn.sharesdk.framework.utils.b: java.lang.String y()
+cn.sharesdk.framework.utils.b: void c(java.lang.String)
+cn.sharesdk.framework.utils.b: java.lang.String p()
+cn.sharesdk.framework.utils.b: java.lang.String q()
+cn.sharesdk.framework.utils.b: int r()
+cn.sharesdk.framework.utils.b: java.lang.String s()
+cn.sharesdk.framework.utils.b: java.util.ArrayList a(boolean)
+cn.sharesdk.framework.utils.b: boolean a(android.content.pm.PackageInfo)
+cn.sharesdk.framework.utils.b: java.lang.String t()
+cn.sharesdk.framework.utils.b: boolean a(java.lang.String)
+cn.sharesdk.framework.utils.b: java.lang.String u()
+cn.sharesdk.framework.utils.b: boolean v()
+cn.sharesdk.framework.utils.b: java.lang.String w()
+cn.sharesdk.framework.utils.c
+cn.sharesdk.framework.utils.c: char[] a
+cn.sharesdk.framework.utils.c: java.lang.String a(byte[])
+cn.sharesdk.framework.utils.c: void <clinit>()
+cn.sharesdk.framework.utils.d
+cn.sharesdk.framework.utils.d: d()
+cn.sharesdk.framework.utils.d: java.util.HashMap a(java.lang.String)
+cn.sharesdk.framework.utils.d: java.util.HashMap a(org.json.JSONObject)
+cn.sharesdk.framework.utils.d: java.util.ArrayList a(org.json.JSONArray)
+cn.sharesdk.framework.utils.d: java.lang.String a(java.util.HashMap)
+cn.sharesdk.framework.utils.d: org.json.JSONObject b(java.util.HashMap)
+cn.sharesdk.framework.utils.d: boolean a(java.lang.Object)
+cn.sharesdk.framework.utils.d: java.util.ArrayList b(java.lang.Object)
+cn.sharesdk.framework.utils.d: org.json.JSONArray a(java.util.ArrayList)
+cn.sharesdk.framework.utils.e
+cn.sharesdk.framework.utils.e: android.content.Context c
+cn.sharesdk.framework.utils.e: java.lang.String d
+cn.sharesdk.framework.utils.e: cn.sharesdk.framework.utils.e$a a
+cn.sharesdk.framework.utils.e: cn.sharesdk.framework.utils.e$b b
+cn.sharesdk.framework.utils.e: void a(android.content.Context)
+cn.sharesdk.framework.utils.e: int a(java.lang.Throwable)
+cn.sharesdk.framework.utils.e: int a(java.lang.Object,java.lang.Object[])
+cn.sharesdk.framework.utils.e: int b(java.lang.Object,java.lang.Object[])
+cn.sharesdk.framework.utils.e: int b(java.lang.Throwable)
+cn.sharesdk.framework.utils.e: int c(java.lang.Object,java.lang.Object[])
+cn.sharesdk.framework.utils.e: int a(java.lang.Throwable,java.lang.Object,java.lang.Object[])
+cn.sharesdk.framework.utils.e: android.content.Context a()
+cn.sharesdk.framework.utils.e: java.lang.String b()
+cn.sharesdk.framework.utils.e: void <clinit>()
+cn.sharesdk.framework.utils.e$a
+cn.sharesdk.framework.utils.e$a: int a
+cn.sharesdk.framework.utils.e$a: java.lang.String b
+cn.sharesdk.framework.utils.e$a: java.lang.String c
+cn.sharesdk.framework.utils.e$a: e$a()
+cn.sharesdk.framework.utils.e$b
+cn.sharesdk.framework.utils.e$b: e$b()
+cn.sharesdk.framework.utils.e$b: int a(int,java.lang.String)
+cn.sharesdk.framework.utils.e$b: int b(int,java.lang.String)
+cn.sharesdk.framework.utils.e$b: java.lang.String a(java.lang.String)
+cn.sharesdk.framework.utils.e$b: java.lang.String a(int)
+cn.sharesdk.framework.utils.f
+cn.sharesdk.framework.utils.f: cn.sharesdk.framework.utils.f$b a
+cn.sharesdk.framework.utils.f: cn.sharesdk.framework.utils.g b
+cn.sharesdk.framework.utils.f: f()
+cn.sharesdk.framework.utils.f: void a(java.lang.String,java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.f: cn.sharesdk.framework.utils.f$b a()
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(java.lang.String,java.util.ArrayList)
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.utils.f$a)
+cn.sharesdk.framework.utils.f: java.util.ArrayList b(java.lang.String,java.util.ArrayList)
+cn.sharesdk.framework.utils.f: java.util.ArrayList b(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.utils.f$a)
+cn.sharesdk.framework.utils.f: java.util.ArrayList c(java.lang.String,java.util.ArrayList,cn.sharesdk.framework.utils.f$a)
+cn.sharesdk.framework.utils.f: void a(java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(java.lang.String,java.lang.String,java.util.ArrayList,cn.sharesdk.framework.utils.f$a)
+cn.sharesdk.framework.utils.f: java.lang.String a(java.lang.String)
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(long,java.util.ArrayList,java.lang.String)
+cn.sharesdk.framework.utils.f: java.lang.String b(java.util.ArrayList)
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(long,java.lang.String)
+cn.sharesdk.framework.utils.f: java.util.ArrayList a(java.util.ArrayList)
+cn.sharesdk.framework.utils.f$1
+cn.sharesdk.framework.utils.f$1: int[] a
+cn.sharesdk.framework.utils.f$1: void <clinit>()
+cn.sharesdk.framework.utils.f$a
+cn.sharesdk.framework.utils.f$a: cn.sharesdk.framework.utils.f$a a
+cn.sharesdk.framework.utils.f$a: cn.sharesdk.framework.utils.f$a b
+cn.sharesdk.framework.utils.f$a: cn.sharesdk.framework.utils.f$a[] c
+cn.sharesdk.framework.utils.f$a: cn.sharesdk.framework.utils.f$a[] values()
+cn.sharesdk.framework.utils.f$a: cn.sharesdk.framework.utils.f$a valueOf(java.lang.String)
+cn.sharesdk.framework.utils.f$a: f$a(java.lang.String,int)
+cn.sharesdk.framework.utils.f$a: void <clinit>()
+cn.sharesdk.framework.utils.f$b
+cn.sharesdk.framework.utils.f$b: java.lang.String a
+cn.sharesdk.framework.utils.f$b: java.lang.String b
+cn.sharesdk.framework.utils.f$b: java.lang.String c
+cn.sharesdk.framework.utils.f$b: java.lang.String d
+cn.sharesdk.framework.utils.f$b: java.lang.String e
+cn.sharesdk.framework.utils.f$b: f$b()
+cn.sharesdk.framework.utils.g
+cn.sharesdk.framework.utils.g: char[] a
+cn.sharesdk.framework.utils.g: char[] b
+cn.sharesdk.framework.utils.g: boolean c
+cn.sharesdk.framework.utils.g: boolean[] d
+cn.sharesdk.framework.utils.g: g(java.lang.String,boolean)
+cn.sharesdk.framework.utils.g: boolean[] a(java.lang.String)
+cn.sharesdk.framework.utils.g: int a(java.lang.CharSequence,int,int)
+cn.sharesdk.framework.utils.g: java.lang.String escape(java.lang.String)
+cn.sharesdk.framework.utils.g: char[] a(int)
+cn.sharesdk.framework.utils.g: void <clinit>()
+cn.sharesdk.framework.utils.h
+cn.sharesdk.framework.utils.h: java.lang.Object a(java.lang.Object)
+cn.sharesdk.framework.utils.i
+cn.sharesdk.framework.utils.i: i()
+cn.sharesdk.framework.utils.i: boolean handleMessage(android.os.Message)
+cn.sharesdk.framework.utils.j
+cn.sharesdk.framework.utils.j: java.lang.ThreadLocal a
+cn.sharesdk.framework.utils.j: j()
+cn.sharesdk.framework.utils.j: char[] a(int)
+cn.sharesdk.framework.utils.j: int a(java.lang.CharSequence,int,int)
+cn.sharesdk.framework.utils.j: java.lang.String escape(java.lang.String)
+cn.sharesdk.framework.utils.j: java.lang.String a(java.lang.String,int)
+cn.sharesdk.framework.utils.j: java.lang.Appendable escape(java.lang.Appendable)
+cn.sharesdk.framework.utils.j: int b(java.lang.CharSequence,int,int)
+cn.sharesdk.framework.utils.j: char[] a(char[],int,int)
+cn.sharesdk.framework.utils.j: void <clinit>()
+cn.sharesdk.framework.utils.k
+cn.sharesdk.framework.utils.k: int a
+cn.sharesdk.framework.utils.k: char[] b
+cn.sharesdk.framework.utils.k: java.lang.Appendable c
+cn.sharesdk.framework.utils.k: cn.sharesdk.framework.utils.j d
+cn.sharesdk.framework.utils.k: k(cn.sharesdk.framework.utils.j,java.lang.Appendable)
+cn.sharesdk.framework.utils.k: java.lang.Appendable append(java.lang.CharSequence)
+cn.sharesdk.framework.utils.k: java.lang.Appendable append(java.lang.CharSequence,int,int)
+cn.sharesdk.framework.utils.k: java.lang.Appendable append(char)
+cn.sharesdk.framework.utils.k: void a(char[],int)
+cn.sharesdk.framework.utils.l
+cn.sharesdk.framework.utils.l: l()
+cn.sharesdk.framework.utils.l: char[] a()
+cn.sharesdk.framework.utils.l: java.lang.Object initialValue()
+cn.sharesdk.framework.utils.m
+cn.sharesdk.framework.utils.m: m()
+cn.sharesdk.framework.utils.m: java.util.HashMap a(java.lang.String)
+cn.sharesdk.framework.utils.m$a
+cn.sharesdk.framework.utils.m$a: java.util.HashMap a
+cn.sharesdk.framework.utils.m$a: java.util.HashMap b
+cn.sharesdk.framework.utils.m$a: m$a()
+cn.sharesdk.framework.utils.m$a: java.util.HashMap a()
+cn.sharesdk.framework.utils.m$a: void startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)
+cn.sharesdk.framework.utils.m$a: void endElement(java.lang.String,java.lang.String,java.lang.String)
+cn.sharesdk.framework.utils.m$a: void characters(char[],int,int)
+cn.sharesdk.sina.weibo.SinaWeibo
+cn.sharesdk.sina.weibo.SinaWeibo: java.lang.String NAME
+cn.sharesdk.sina.weibo.SinaWeibo: java.lang.String a
+cn.sharesdk.sina.weibo.SinaWeibo: java.lang.String b
+cn.sharesdk.sina.weibo.SinaWeibo: java.lang.String c
+cn.sharesdk.sina.weibo.SinaWeibo: boolean d
+cn.sharesdk.sina.weibo.SinaWeibo: SinaWeibo(android.content.Context)
+cn.sharesdk.sina.weibo.SinaWeibo: void initDevInfo(java.lang.String)
+cn.sharesdk.sina.weibo.SinaWeibo: int getPlatformId()
+cn.sharesdk.sina.weibo.SinaWeibo: java.lang.String getName()
+cn.sharesdk.sina.weibo.SinaWeibo: int getVersion()
+cn.sharesdk.sina.weibo.SinaWeibo: void setNetworkDevinfo()
+cn.sharesdk.sina.weibo.SinaWeibo: void doAuthorize(java.lang.String[])
+cn.sharesdk.sina.weibo.SinaWeibo: boolean checkAuthorize(int,java.lang.Object)
+cn.sharesdk.sina.weibo.SinaWeibo: void doShare(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.sina.weibo.SinaWeibo: void follow(java.lang.String)
+cn.sharesdk.sina.weibo.SinaWeibo: void timeline(int,int,java.lang.String)
+cn.sharesdk.sina.weibo.SinaWeibo: void userInfor(java.lang.String)
+cn.sharesdk.sina.weibo.SinaWeibo: void getFriendList(int,int,java.lang.String)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.b.b.f$a filterShareContent(cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.sina.weibo.SinaWeibo: void doCustomerProtocol(java.lang.String,java.lang.String,int,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformDb a(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformDb b(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformDb c(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformDb d(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformDb e(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: void a(cn.sharesdk.sina.weibo.SinaWeibo,int,java.lang.Object)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformActionListener f(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformActionListener g(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformActionListener h(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: cn.sharesdk.framework.PlatformActionListener i(cn.sharesdk.sina.weibo.SinaWeibo)
+cn.sharesdk.sina.weibo.SinaWeibo: void <clinit>()
+cn.sharesdk.sina.weibo.SinaWeibo$ShareParams
+cn.sharesdk.sina.weibo.SinaWeibo$ShareParams: java.lang.String imageUrl
+cn.sharesdk.sina.weibo.SinaWeibo$ShareParams: float longitude
+cn.sharesdk.sina.weibo.SinaWeibo$ShareParams: float latitude
+cn.sharesdk.sina.weibo.SinaWeibo$ShareParams: SinaWeibo$ShareParams()
+cn.sharesdk.sina.weibo.a
+cn.sharesdk.sina.weibo.a: cn.sharesdk.sina.weibo.e a
+cn.sharesdk.sina.weibo.a: cn.sharesdk.sina.weibo.SinaWeibo b
+cn.sharesdk.sina.weibo.a: a(cn.sharesdk.sina.weibo.SinaWeibo,cn.sharesdk.sina.weibo.e)
+cn.sharesdk.sina.weibo.a: void onComplete(android.os.Bundle)
+cn.sharesdk.sina.weibo.a: void onError(java.lang.Throwable)
+cn.sharesdk.sina.weibo.a: void onCancel()
+cn.sharesdk.sina.weibo.b
+cn.sharesdk.sina.weibo.b: boolean d
+cn.sharesdk.sina.weibo.b: b(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.sina.weibo.b: boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String)
+cn.sharesdk.sina.weibo.b: void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap)
+cn.sharesdk.sina.weibo.b: void a(java.lang.String)
+cn.sharesdk.sina.weibo.b: void a(cn.sharesdk.framework.Platform,java.lang.String)
+cn.sharesdk.sina.weibo.b: android.content.Intent b(java.lang.String)
+cn.sharesdk.sina.weibo.b: cn.sharesdk.framework.authorize.AuthorizeListener a(cn.sharesdk.sina.weibo.b)
+cn.sharesdk.sina.weibo.b: cn.sharesdk.framework.authorize.AuthorizeListener b(cn.sharesdk.sina.weibo.b)
+cn.sharesdk.sina.weibo.b: cn.sharesdk.framework.authorize.AuthorizeListener c(cn.sharesdk.sina.weibo.b)
+cn.sharesdk.sina.weibo.c
+cn.sharesdk.sina.weibo.c: cn.sharesdk.framework.Platform a
+cn.sharesdk.sina.weibo.c: java.lang.String b
+cn.sharesdk.sina.weibo.c: cn.sharesdk.sina.weibo.b c
+cn.sharesdk.sina.weibo.c: c(cn.sharesdk.sina.weibo.b,cn.sharesdk.framework.Platform,java.lang.String)
+cn.sharesdk.sina.weibo.c: void run()
+cn.sharesdk.sina.weibo.d
+cn.sharesdk.sina.weibo.d: java.lang.String d
+cn.sharesdk.sina.weibo.d: java.lang.String e
+cn.sharesdk.sina.weibo.d: java.lang.String[] f
+cn.sharesdk.sina.weibo.d: d(cn.sharesdk.framework.authorize.e)
+cn.sharesdk.sina.weibo.d: void a(java.lang.String,java.lang.String,java.lang.String[])
+cn.sharesdk.sina.weibo.d: void a()
+cn.sharesdk.sina.weibo.d: void onServiceConnected(android.content.ComponentName,android.os.IBinder)
+cn.sharesdk.sina.weibo.d: void onServiceDisconnected(android.content.ComponentName)
+cn.sharesdk.sina.weibo.d: boolean a(java.lang.String,java.lang.String)
+cn.sharesdk.sina.weibo.d: boolean b(android.content.Intent)
+cn.sharesdk.sina.weibo.d: void a(int,int,android.content.Intent)
+cn.sharesdk.sina.weibo.d: void c(android.content.Intent)
+cn.sharesdk.sina.weibo.d: void d(android.content.Intent)
+cn.sharesdk.sina.weibo.e
+cn.sharesdk.sina.weibo.e: cn.sharesdk.sina.weibo.e b
+cn.sharesdk.sina.weibo.e: java.lang.String c
+cn.sharesdk.sina.weibo.e: java.lang.String d
+cn.sharesdk.sina.weibo.e: java.lang.String e
+cn.sharesdk.sina.weibo.e: java.lang.String f
+cn.sharesdk.sina.weibo.e: java.lang.String[] g
+cn.sharesdk.sina.weibo.e: cn.sharesdk.sina.weibo.e a(cn.sharesdk.framework.Platform)
+cn.sharesdk.sina.weibo.e: e(cn.sharesdk.framework.Platform)
+cn.sharesdk.sina.weibo.e: void a(java.lang.String,java.lang.String)
+cn.sharesdk.sina.weibo.e: void a(java.lang.String)
+cn.sharesdk.sina.weibo.e: void a(java.lang.String[])
+cn.sharesdk.sina.weibo.e: cn.sharesdk.framework.authorize.b getAuthorizeWebviewClient(cn.sharesdk.framework.authorize.g)
+cn.sharesdk.sina.weibo.e: cn.sharesdk.framework.authorize.f getSSOProcessor(cn.sharesdk.framework.authorize.e)
+cn.sharesdk.sina.weibo.e: void a(cn.sharesdk.framework.authorize.AuthorizeListener,boolean)
+cn.sharesdk.sina.weibo.e: java.lang.String getAuthorizeUrl()
+cn.sharesdk.sina.weibo.e: java.lang.String getRedirectUri()
+cn.sharesdk.sina.weibo.e: java.lang.String a(android.content.Context,java.lang.String)
+cn.sharesdk.sina.weibo.e: void b(java.lang.String)
+cn.sharesdk.sina.weibo.e: java.util.HashMap c(java.lang.String)
+cn.sharesdk.sina.weibo.e: boolean a()
+cn.sharesdk.sina.weibo.e: void a(java.lang.String,java.lang.String,java.lang.String)
+cn.sharesdk.sina.weibo.e: java.util.HashMap a(java.lang.String,java.lang.String,java.lang.String,float,float)
+cn.sharesdk.sina.weibo.e: java.util.HashMap a(java.lang.String,java.lang.String,float,float)
+cn.sharesdk.sina.weibo.e: java.util.HashMap b(java.lang.String,java.lang.String,float,float)
+cn.sharesdk.sina.weibo.e: java.util.HashMap a(java.lang.String,float,float)
+cn.sharesdk.sina.weibo.e: java.util.HashMap d(java.lang.String)
+cn.sharesdk.sina.weibo.e: java.util.HashMap a(int,int,java.lang.String)
+cn.sharesdk.sina.weibo.e: java.util.HashMap b(int,int,java.lang.String)
+cn.sharesdk.sina.weibo.e: java.util.HashMap a(java.lang.String,java.lang.String,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.sina.weibo.e: void a(cn.sharesdk.sina.weibo.e,cn.sharesdk.framework.authorize.AuthorizeListener)
+cn.sharesdk.sina.weibo.f
+cn.sharesdk.sina.weibo.f: cn.sharesdk.framework.authorize.AuthorizeListener a
+cn.sharesdk.sina.weibo.f: cn.sharesdk.sina.weibo.e b
+cn.sharesdk.sina.weibo.f: f(cn.sharesdk.sina.weibo.e,cn.sharesdk.framework.authorize.AuthorizeListener)
+cn.sharesdk.sina.weibo.f: void onFailed(java.lang.Throwable)
+cn.sharesdk.sina.weibo.f: void onComplete(android.os.Bundle)
+cn.sharesdk.sina.weibo.f: void onCancel()
+cn.sharesdk.wechat.friends.Wechat
+cn.sharesdk.wechat.friends.Wechat: java.lang.String NAME
+cn.sharesdk.wechat.friends.Wechat: java.lang.String a
+cn.sharesdk.wechat.friends.Wechat: boolean b
+cn.sharesdk.wechat.friends.Wechat: Wechat(android.content.Context)
+cn.sharesdk.wechat.friends.Wechat: void initDevInfo(java.lang.String)
+cn.sharesdk.wechat.friends.Wechat: int getPlatformId()
+cn.sharesdk.wechat.friends.Wechat: java.lang.String getName()
+cn.sharesdk.wechat.friends.Wechat: int getVersion()
+cn.sharesdk.wechat.friends.Wechat: void setNetworkDevinfo()
+cn.sharesdk.wechat.friends.Wechat: void doAuthorize(java.lang.String[])
+cn.sharesdk.wechat.friends.Wechat: boolean isValid()
+cn.sharesdk.wechat.friends.Wechat: boolean checkAuthorize(int,java.lang.Object)
+cn.sharesdk.wechat.friends.Wechat: void doShare(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.wechat.friends.Wechat: void follow(java.lang.String)
+cn.sharesdk.wechat.friends.Wechat: void timeline(int,int,java.lang.String)
+cn.sharesdk.wechat.friends.Wechat: void userInfor(java.lang.String)
+cn.sharesdk.wechat.friends.Wechat: void getFriendList(int,int,java.lang.String)
+cn.sharesdk.wechat.friends.Wechat: void doCustomerProtocol(java.lang.String,java.lang.String,int,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.wechat.friends.Wechat: cn.sharesdk.framework.b.b.f$a filterShareContent(cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.wechat.friends.Wechat: cn.sharesdk.framework.PlatformActionListener a(cn.sharesdk.wechat.friends.Wechat)
+cn.sharesdk.wechat.friends.Wechat: cn.sharesdk.framework.PlatformActionListener b(cn.sharesdk.wechat.friends.Wechat)
+cn.sharesdk.wechat.friends.Wechat: void a(cn.sharesdk.wechat.friends.Wechat,int,java.lang.Object)
+cn.sharesdk.wechat.friends.Wechat: cn.sharesdk.framework.PlatformActionListener c(cn.sharesdk.wechat.friends.Wechat)
+cn.sharesdk.wechat.friends.Wechat: cn.sharesdk.framework.PlatformActionListener d(cn.sharesdk.wechat.friends.Wechat)
+cn.sharesdk.wechat.friends.Wechat: void <clinit>()
+cn.sharesdk.wechat.friends.Wechat$ShareParams
+cn.sharesdk.wechat.friends.Wechat$ShareParams: Wechat$ShareParams()
+cn.sharesdk.wechat.friends.a
+cn.sharesdk.wechat.friends.a: cn.sharesdk.wechat.friends.Wechat a
+cn.sharesdk.wechat.friends.a: a(cn.sharesdk.wechat.friends.Wechat)
+cn.sharesdk.wechat.friends.a: void onError(java.lang.Throwable)
+cn.sharesdk.wechat.friends.a: void onComplete(android.os.Bundle)
+cn.sharesdk.wechat.friends.a: void onCancel()
+cn.sharesdk.wechat.moments.WechatMoments
+cn.sharesdk.wechat.moments.WechatMoments: java.lang.String NAME
+cn.sharesdk.wechat.moments.WechatMoments: java.lang.String a
+cn.sharesdk.wechat.moments.WechatMoments: boolean b
+cn.sharesdk.wechat.moments.WechatMoments: WechatMoments(android.content.Context)
+cn.sharesdk.wechat.moments.WechatMoments: void initDevInfo(java.lang.String)
+cn.sharesdk.wechat.moments.WechatMoments: int getPlatformId()
+cn.sharesdk.wechat.moments.WechatMoments: java.lang.String getName()
+cn.sharesdk.wechat.moments.WechatMoments: int getVersion()
+cn.sharesdk.wechat.moments.WechatMoments: void setNetworkDevinfo()
+cn.sharesdk.wechat.moments.WechatMoments: void doAuthorize(java.lang.String[])
+cn.sharesdk.wechat.moments.WechatMoments: boolean checkAuthorize(int,java.lang.Object)
+cn.sharesdk.wechat.moments.WechatMoments: boolean isValid()
+cn.sharesdk.wechat.moments.WechatMoments: void doShare(cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.wechat.moments.WechatMoments: void follow(java.lang.String)
+cn.sharesdk.wechat.moments.WechatMoments: void timeline(int,int,java.lang.String)
+cn.sharesdk.wechat.moments.WechatMoments: void userInfor(java.lang.String)
+cn.sharesdk.wechat.moments.WechatMoments: void getFriendList(int,int,java.lang.String)
+cn.sharesdk.wechat.moments.WechatMoments: void doCustomerProtocol(java.lang.String,java.lang.String,int,java.util.HashMap,java.util.HashMap)
+cn.sharesdk.wechat.moments.WechatMoments: cn.sharesdk.framework.b.b.f$a filterShareContent(cn.sharesdk.framework.Platform$ShareParams,java.util.HashMap)
+cn.sharesdk.wechat.moments.WechatMoments: cn.sharesdk.framework.PlatformActionListener a(cn.sharesdk.wechat.moments.WechatMoments)
+cn.sharesdk.wechat.moments.WechatMoments: cn.sharesdk.framework.PlatformActionListener b(cn.sharesdk.wechat.moments.WechatMoments)
+cn.sharesdk.wechat.moments.WechatMoments: void a(cn.sharesdk.wechat.moments.WechatMoments,int,java.lang.Object)
+cn.sharesdk.wechat.moments.WechatMoments: cn.sharesdk.framework.PlatformActionListener c(cn.sharesdk.wechat.moments.WechatMoments)
+cn.sharesdk.wechat.moments.WechatMoments: cn.sharesdk.framework.PlatformActionListener d(cn.sharesdk.wechat.moments.WechatMoments)
+cn.sharesdk.wechat.moments.WechatMoments: void <clinit>()
+cn.sharesdk.wechat.moments.WechatMoments$ShareParams
+cn.sharesdk.wechat.moments.WechatMoments$ShareParams: WechatMoments$ShareParams()
+cn.sharesdk.wechat.moments.a
+cn.sharesdk.wechat.moments.a: cn.sharesdk.wechat.moments.WechatMoments a
+cn.sharesdk.wechat.moments.a: a(cn.sharesdk.wechat.moments.WechatMoments)
+cn.sharesdk.wechat.moments.a: void onError(java.lang.Throwable)
+cn.sharesdk.wechat.moments.a: void onComplete(android.os.Bundle)
+cn.sharesdk.wechat.moments.a: void onCancel()
+cn.sharesdk.wechat.utils.WXAppExtendObject
+cn.sharesdk.wechat.utils.WXAppExtendObject: java.lang.String extInfo
+cn.sharesdk.wechat.utils.WXAppExtendObject: java.lang.String filePath
+cn.sharesdk.wechat.utils.WXAppExtendObject: byte[] fileData
+cn.sharesdk.wechat.utils.WXAppExtendObject: WXAppExtendObject()
+cn.sharesdk.wechat.utils.WXAppExtendObject: WXAppExtendObject(java.lang.String,byte[])
+cn.sharesdk.wechat.utils.WXAppExtendObject: WXAppExtendObject(java.lang.String,java.lang.String)
+cn.sharesdk.wechat.utils.WXAppExtendObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXAppExtendObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXAppExtendObject: int type()
+cn.sharesdk.wechat.utils.WXAppExtendObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXEmojiObject
+cn.sharesdk.wechat.utils.WXEmojiObject: byte[] emojiData
+cn.sharesdk.wechat.utils.WXEmojiObject: java.lang.String emojiPath
+cn.sharesdk.wechat.utils.WXEmojiObject: WXEmojiObject()
+cn.sharesdk.wechat.utils.WXEmojiObject: WXEmojiObject(byte[])
+cn.sharesdk.wechat.utils.WXEmojiObject: WXEmojiObject(java.lang.String)
+cn.sharesdk.wechat.utils.WXEmojiObject: void setEmojiData(byte[])
+cn.sharesdk.wechat.utils.WXEmojiObject: void setEmojiPath(java.lang.String)
+cn.sharesdk.wechat.utils.WXEmojiObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXEmojiObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXEmojiObject: int type()
+cn.sharesdk.wechat.utils.WXEmojiObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXFileObject
+cn.sharesdk.wechat.utils.WXFileObject: byte[] fileData
+cn.sharesdk.wechat.utils.WXFileObject: java.lang.String filePath
+cn.sharesdk.wechat.utils.WXFileObject: WXFileObject()
+cn.sharesdk.wechat.utils.WXFileObject: WXFileObject(byte[])
+cn.sharesdk.wechat.utils.WXFileObject: WXFileObject(java.lang.String)
+cn.sharesdk.wechat.utils.WXFileObject: void setFileData(byte[])
+cn.sharesdk.wechat.utils.WXFileObject: void setFilePath(java.lang.String)
+cn.sharesdk.wechat.utils.WXFileObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXFileObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXFileObject: int type()
+cn.sharesdk.wechat.utils.WXFileObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXImageObject
+cn.sharesdk.wechat.utils.WXImageObject: byte[] imageData
+cn.sharesdk.wechat.utils.WXImageObject: java.lang.String imagePath
+cn.sharesdk.wechat.utils.WXImageObject: java.lang.String imageUrl
+cn.sharesdk.wechat.utils.WXImageObject: WXImageObject()
+cn.sharesdk.wechat.utils.WXImageObject: WXImageObject(byte[])
+cn.sharesdk.wechat.utils.WXImageObject: WXImageObject(android.graphics.Bitmap)
+cn.sharesdk.wechat.utils.WXImageObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXImageObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXImageObject: int type()
+cn.sharesdk.wechat.utils.WXImageObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXMediaMessage
+cn.sharesdk.wechat.utils.WXMediaMessage: java.lang.String ACTION_WXAPPMESSAGE
+cn.sharesdk.wechat.utils.WXMediaMessage: int sdkVer
+cn.sharesdk.wechat.utils.WXMediaMessage: java.lang.String title
+cn.sharesdk.wechat.utils.WXMediaMessage: java.lang.String description
+cn.sharesdk.wechat.utils.WXMediaMessage: byte[] thumbData
+cn.sharesdk.wechat.utils.WXMediaMessage: cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject mediaObject
+cn.sharesdk.wechat.utils.WXMediaMessage: WXMediaMessage()
+cn.sharesdk.wechat.utils.WXMediaMessage: WXMediaMessage(cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject)
+cn.sharesdk.wechat.utils.WXMediaMessage: int getType()
+cn.sharesdk.wechat.utils.WXMediaMessage: void setThumbImage(android.graphics.Bitmap)
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_UNKNOWN
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_TEXT
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_IMAGE
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_MUSIC
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_VIDEO
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_URL
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_FILE
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_APPDATA
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int TYPE_EMOJI
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: int type()
+cn.sharesdk.wechat.utils.WXMediaMessage$IMediaObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXMediaMessage$a
+cn.sharesdk.wechat.utils.WXMediaMessage$a: android.os.Bundle a(cn.sharesdk.wechat.utils.WXMediaMessage)
+cn.sharesdk.wechat.utils.WXMediaMessage$a: cn.sharesdk.wechat.utils.WXMediaMessage a(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXMusicObject
+cn.sharesdk.wechat.utils.WXMusicObject: java.lang.String musicUrl
+cn.sharesdk.wechat.utils.WXMusicObject: java.lang.String musicLowBandUrl
+cn.sharesdk.wechat.utils.WXMusicObject: java.lang.String musicDataUrl
+cn.sharesdk.wechat.utils.WXMusicObject: java.lang.String musicLowBandDataUrl
+cn.sharesdk.wechat.utils.WXMusicObject: WXMusicObject()
+cn.sharesdk.wechat.utils.WXMusicObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXMusicObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXMusicObject: int type()
+cn.sharesdk.wechat.utils.WXMusicObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXTextObject
+cn.sharesdk.wechat.utils.WXTextObject: java.lang.String text
+cn.sharesdk.wechat.utils.WXTextObject: WXTextObject()
+cn.sharesdk.wechat.utils.WXTextObject: WXTextObject(java.lang.String)
+cn.sharesdk.wechat.utils.WXTextObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXTextObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXTextObject: int type()
+cn.sharesdk.wechat.utils.WXTextObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXVideoObject
+cn.sharesdk.wechat.utils.WXVideoObject: java.lang.String videoUrl
+cn.sharesdk.wechat.utils.WXVideoObject: java.lang.String videoLowBandUrl
+cn.sharesdk.wechat.utils.WXVideoObject: WXVideoObject()
+cn.sharesdk.wechat.utils.WXVideoObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXVideoObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXVideoObject: int type()
+cn.sharesdk.wechat.utils.WXVideoObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WXWebpageObject
+cn.sharesdk.wechat.utils.WXWebpageObject: java.lang.String webpageUrl
+cn.sharesdk.wechat.utils.WXWebpageObject: WXWebpageObject()
+cn.sharesdk.wechat.utils.WXWebpageObject: WXWebpageObject(java.lang.String)
+cn.sharesdk.wechat.utils.WXWebpageObject: void serialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXWebpageObject: void unserialize(android.os.Bundle)
+cn.sharesdk.wechat.utils.WXWebpageObject: int type()
+cn.sharesdk.wechat.utils.WXWebpageObject: boolean checkArgs()
+cn.sharesdk.wechat.utils.WechatClientNotExistException
+cn.sharesdk.wechat.utils.WechatClientNotExistException: long serialVersionUID
+cn.sharesdk.wechat.utils.WechatClientNotExistException: WechatClientNotExistException()
+cn.sharesdk.wechat.utils.WechatFavoriteNotSupportedException
+cn.sharesdk.wechat.utils.WechatFavoriteNotSupportedException: long serialVersionUID
+cn.sharesdk.wechat.utils.WechatFavoriteNotSupportedException: WechatFavoriteNotSupportedException()
+cn.sharesdk.wechat.utils.WechatHandlerActivity
+cn.sharesdk.wechat.utils.WechatHandlerActivity: WechatHandlerActivity()
+cn.sharesdk.wechat.utils.WechatHandlerActivity: void onCreate(android.os.Bundle)
+cn.sharesdk.wechat.utils.WechatHandlerActivity: void onNewIntent(android.content.Intent)
+cn.sharesdk.wechat.utils.WechatHandlerActivity: void onGetMessageFromWXReq(cn.sharesdk.wechat.utils.WXMediaMessage)
+cn.sharesdk.wechat.utils.WechatHandlerActivity: void onShowMessageFromWXReq(cn.sharesdk.wechat.utils.WXMediaMessage)
+cn.sharesdk.wechat.utils.WechatHelper
+cn.sharesdk.wechat.utils.WechatHelper: boolean a
+cn.sharesdk.wechat.utils.WechatHelper: cn.sharesdk.wechat.utils.WechatHelper b
+cn.sharesdk.wechat.utils.WechatHelper: cn.sharesdk.wechat.utils.g c
+cn.sharesdk.wechat.utils.WechatHelper: cn.sharesdk.wechat.utils.h d
+cn.sharesdk.wechat.utils.WechatHelper: cn.sharesdk.wechat.utils.WechatHelper a()
+cn.sharesdk.wechat.utils.WechatHelper: WechatHelper()
+cn.sharesdk.wechat.utils.WechatHelper: void a(cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(cn.sharesdk.wechat.utils.h,cn.sharesdk.framework.Platform$ShareParams)
+cn.sharesdk.wechat.utils.WechatHelper: void b(cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void a(java.lang.String,java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void c(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void c(java.lang.String,java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void b(java.lang.String,java.lang.String,android.graphics.Bitmap,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: byte[] a(java.lang.String)
+cn.sharesdk.wechat.utils.WechatHelper: byte[] b(java.lang.String)
+cn.sharesdk.wechat.utils.WechatHelper: byte[] a(byte[])
+cn.sharesdk.wechat.utils.WechatHelper: java.lang.String c(java.lang.String)
+cn.sharesdk.wechat.utils.WechatHelper: boolean a(android.content.Context,java.lang.String)
+cn.sharesdk.wechat.utils.WechatHelper: boolean a(cn.sharesdk.wechat.utils.WechatHandlerActivity)
+cn.sharesdk.wechat.utils.WechatHelper: boolean b()
+cn.sharesdk.wechat.utils.WechatHelper: boolean c()
+cn.sharesdk.wechat.utils.WechatHelper: void a(cn.sharesdk.wechat.utils.WXMediaMessage,java.lang.String,int,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.WechatHelper: void <clinit>()
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: int shareType
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String title
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String musicUrl
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String url
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String imageUrl
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: android.graphics.Bitmap imageData
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: int scene
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String filePath
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: java.lang.String extInfo
+cn.sharesdk.wechat.utils.WechatHelper$ShareParams: WechatHelper$ShareParams()
+cn.sharesdk.wechat.utils.WechatResp
+cn.sharesdk.wechat.utils.WechatResp: int e
+cn.sharesdk.wechat.utils.WechatResp: java.lang.String f
+cn.sharesdk.wechat.utils.WechatResp: java.lang.String g
+cn.sharesdk.wechat.utils.WechatResp: WechatResp(android.os.Bundle)
+cn.sharesdk.wechat.utils.WechatResp: int a()
+cn.sharesdk.wechat.utils.WechatResp: void b(android.os.Bundle)
+cn.sharesdk.wechat.utils.WechatResp: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.WechatResp$ErrCode
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_OK
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_COMM
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_USER_CANCEL
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_SENT_FAILED
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_AUTH_DENIED
+cn.sharesdk.wechat.utils.WechatResp$ErrCode: int ERR_UNSUPPORT
+cn.sharesdk.wechat.utils.WechatTimelineNotSupportedException
+cn.sharesdk.wechat.utils.WechatTimelineNotSupportedException: long serialVersionUID
+cn.sharesdk.wechat.utils.WechatTimelineNotSupportedException: WechatTimelineNotSupportedException()
+cn.sharesdk.wechat.utils.a
+cn.sharesdk.wechat.utils.a: java.lang.String a
+cn.sharesdk.wechat.utils.a: java.lang.String b
+cn.sharesdk.wechat.utils.a: a()
+cn.sharesdk.wechat.utils.a: int a()
+cn.sharesdk.wechat.utils.a: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.a: boolean b()
+cn.sharesdk.wechat.utils.b
+cn.sharesdk.wechat.utils.b: java.lang.String a
+cn.sharesdk.wechat.utils.b: java.lang.String b
+cn.sharesdk.wechat.utils.b: int c
+cn.sharesdk.wechat.utils.b: java.lang.String d
+cn.sharesdk.wechat.utils.b: b(android.os.Bundle)
+cn.sharesdk.wechat.utils.b: int a()
+cn.sharesdk.wechat.utils.b: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.b: void b(android.os.Bundle)
+cn.sharesdk.wechat.utils.c
+cn.sharesdk.wechat.utils.c: cn.sharesdk.wechat.utils.WXMediaMessage a
+cn.sharesdk.wechat.utils.c: c(android.os.Bundle)
+cn.sharesdk.wechat.utils.c: int a()
+cn.sharesdk.wechat.utils.c: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.c: void b(android.os.Bundle)
+cn.sharesdk.wechat.utils.d
+cn.sharesdk.wechat.utils.d: cn.sharesdk.wechat.utils.WXMediaMessage a
+cn.sharesdk.wechat.utils.d: int b
+cn.sharesdk.wechat.utils.d: d()
+cn.sharesdk.wechat.utils.d: int a()
+cn.sharesdk.wechat.utils.d: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.d: boolean b()
+cn.sharesdk.wechat.utils.e
+cn.sharesdk.wechat.utils.e: e(android.os.Bundle)
+cn.sharesdk.wechat.utils.e: int a()
+cn.sharesdk.wechat.utils.f
+cn.sharesdk.wechat.utils.f: cn.sharesdk.wechat.utils.WXMediaMessage a
+cn.sharesdk.wechat.utils.f: f(android.os.Bundle)
+cn.sharesdk.wechat.utils.f: int a()
+cn.sharesdk.wechat.utils.f: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.f: void b(android.os.Bundle)
+cn.sharesdk.wechat.utils.g
+cn.sharesdk.wechat.utils.g: android.content.Context a
+cn.sharesdk.wechat.utils.g: java.lang.String b
+cn.sharesdk.wechat.utils.g: g()
+cn.sharesdk.wechat.utils.g: boolean a(android.content.Context,java.lang.String)
+cn.sharesdk.wechat.utils.g: void a(cn.sharesdk.wechat.utils.i)
+cn.sharesdk.wechat.utils.g: boolean a()
+cn.sharesdk.wechat.utils.g: boolean c()
+cn.sharesdk.wechat.utils.g: byte[] a(java.lang.String,java.lang.String,int)
+cn.sharesdk.wechat.utils.g: java.lang.String a(java.lang.String)
+cn.sharesdk.wechat.utils.g: boolean b()
+cn.sharesdk.wechat.utils.g: boolean a(cn.sharesdk.wechat.utils.WechatHandlerActivity,cn.sharesdk.wechat.utils.h)
+cn.sharesdk.wechat.utils.g: boolean a(byte[],byte[])
+cn.sharesdk.wechat.utils.h
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.Platform a
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.Platform$ShareParams b
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.PlatformActionListener c
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.authorize.AuthorizeListener d
+cn.sharesdk.wechat.utils.h: h(cn.sharesdk.framework.Platform)
+cn.sharesdk.wechat.utils.h: void a(cn.sharesdk.framework.authorize.AuthorizeListener)
+cn.sharesdk.wechat.utils.h: void a(cn.sharesdk.framework.Platform$ShareParams,cn.sharesdk.framework.PlatformActionListener)
+cn.sharesdk.wechat.utils.h: void a(cn.sharesdk.wechat.utils.WechatResp)
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.Platform$ShareParams a()
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.Platform b()
+cn.sharesdk.wechat.utils.h: cn.sharesdk.framework.PlatformActionListener c()
+cn.sharesdk.wechat.utils.i
+cn.sharesdk.wechat.utils.i: java.lang.String c
+cn.sharesdk.wechat.utils.i: i()
+cn.sharesdk.wechat.utils.i: int a()
+cn.sharesdk.wechat.utils.i: void a(android.os.Bundle)
+cn.sharesdk.wechat.utils.i: boolean b()
+com.ccppg.appstore.MainActivity
+com.ccppg.appstore.MainActivity: MainActivity()
+com.ccppg.appstore.MainActivity: void onClick(android.view.View)
+com.ccppg.appstore.R
+com.ccppg.appstore.R: R()
+com.ccppg.appstore.R$anim
+com.ccppg.appstore.R$anim: int base_anim_set_001_fade_in
+com.ccppg.appstore.R$anim: int base_anim_set_002_fade_out
+com.ccppg.appstore.R$anim: R$anim()
+com.ccppg.appstore.R$attr
+com.ccppg.appstore.R$attr: R$attr()
+com.ccppg.appstore.R$drawable
+com.ccppg.appstore.R$drawable: int base_selector_share_wechat
+com.ccppg.appstore.R$drawable: int base_selector_share_wechatmement
+com.ccppg.appstore.R$drawable: int base_selector_share_weibo
+com.ccppg.appstore.R$drawable: int ic_launcher
+com.ccppg.appstore.R$drawable: int logo_sinaweibo
+com.ccppg.appstore.R$drawable: int logo_sinaweibo_normal
+com.ccppg.appstore.R$drawable: int logo_sinaweibo_pressed
+com.ccppg.appstore.R$drawable: int logo_wechat
+com.ccppg.appstore.R$drawable: int logo_wechat_normal
+com.ccppg.appstore.R$drawable: int logo_wechat_pressed
+com.ccppg.appstore.R$drawable: int logo_wechatmoments
+com.ccppg.appstore.R$drawable: int logo_wechatmoments_normal
+com.ccppg.appstore.R$drawable: int logo_wechatmoments_pressed
+com.ccppg.appstore.R$drawable: int ssdk_auth_title_back
+com.ccppg.appstore.R$drawable: int ssdk_back_arr
+com.ccppg.appstore.R$drawable: int ssdk_logo
+com.ccppg.appstore.R$drawable: int ssdk_title_div
+com.ccppg.appstore.R$drawable: R$drawable()
+com.ccppg.appstore.R$id
+com.ccppg.appstore.R$id: int btnCancel
+com.ccppg.appstore.R$id: int btnShare
+com.ccppg.appstore.R$id: int iv_1
+com.ccppg.appstore.R$id: int iv_2
+com.ccppg.appstore.R$id: int iv_3
+com.ccppg.appstore.R$id: int pop_layout
+com.ccppg.appstore.R$id: int rlCancel
+com.ccppg.appstore.R$id: int root
+com.ccppg.appstore.R$id: int txt_1
+com.ccppg.appstore.R$id: int txt_2
+com.ccppg.appstore.R$id: int txt_3
+com.ccppg.appstore.R$id: R$id()
+com.ccppg.appstore.R$layout
+com.ccppg.appstore.R$layout: int act_main
+com.ccppg.appstore.R$layout: int base_share_popupwindow
+com.ccppg.appstore.R$layout: R$layout()
+com.ccppg.appstore.R$string
+com.ccppg.appstore.R$string: int app_downloading
+com.ccppg.appstore.R$string: int app_name
+com.ccppg.appstore.R$string: int douban
+com.ccppg.appstore.R$string: int download_faield
+com.ccppg.appstore.R$string: int dropbox
+com.ccppg.appstore.R$string: int email
+com.ccppg.appstore.R$string: int evernote
+com.ccppg.appstore.R$string: int facebook
+com.ccppg.appstore.R$string: int failed_to_start_incentive_page
+com.ccppg.appstore.R$string: int flickr
+com.ccppg.appstore.R$string: int foursquare
+com.ccppg.appstore.R$string: int google_plus_client_inavailable
+com.ccppg.appstore.R$string: int googleplus
+com.ccppg.appstore.R$string: int incentive_title
+com.ccppg.appstore.R$string: int instagram
+com.ccppg.appstore.R$string: int instagram_client_inavailable
+com.ccppg.appstore.R$string: int kaixin
+com.ccppg.appstore.R$string: int linkedin
+com.ccppg.appstore.R$string: int mingdao
+com.ccppg.appstore.R$string: int mingdao_share_content
+com.ccppg.appstore.R$string: int neteasemicroblog
+com.ccppg.appstore.R$string: int pinterest
+com.ccppg.appstore.R$string: int pinterest_client_inavailable
+com.ccppg.appstore.R$string: int qq
+com.ccppg.appstore.R$string: int qq_client_inavailable
+com.ccppg.appstore.R$string: int qzone
+com.ccppg.appstore.R$string: int renren
+com.ccppg.appstore.R$string: int share_to_mingdao
+com.ccppg.appstore.R$string: int share_to_qzone
+com.ccppg.appstore.R$string: int shortmessage
+com.ccppg.appstore.R$string: int sinaweibo
+com.ccppg.appstore.R$string: int sohumicroblog
+com.ccppg.appstore.R$string: int sohusuishenkan
+com.ccppg.appstore.R$string: int tencentweibo
+com.ccppg.appstore.R$string: int tumblr
+com.ccppg.appstore.R$string: int twitter
+com.ccppg.appstore.R$string: int vkontakte
+com.ccppg.appstore.R$string: int website
+com.ccppg.appstore.R$string: int wechat
+com.ccppg.appstore.R$string: int wechat_client_inavailable
+com.ccppg.appstore.R$string: int wechatfavorite
+com.ccppg.appstore.R$string: int wechatmoments
+com.ccppg.appstore.R$string: int weibo_oauth_regiseter
+com.ccppg.appstore.R$string: int weibo_upload_content
+com.ccppg.appstore.R$string: int yixin
+com.ccppg.appstore.R$string: int yixin_client_inavailable
+com.ccppg.appstore.R$string: int yixinmoments
+com.ccppg.appstore.R$string: int youdao
+com.ccppg.appstore.R$string: R$string()
+com.ccppg.appstore.R$style
+com.ccppg.appstore.R$style: int AnimFade
+com.ccppg.appstore.R$style: int AppBaseTheme
+com.ccppg.appstore.R$style: int AppTheme
+com.ccppg.appstore.R$style: R$style()
+com.ccppg.appstore.ShareUtil: void onClick(android.view.View)
+com.ccppg.appstore.ShareUtil$CancelListener: void onClick(android.view.View)
+com.ccppg.appstore.wxapi.WXEntryActivity
+com.ccppg.appstore.wxapi.WXEntryActivity: WXEntryActivity()
+com.sina.sso.RemoteSSO
+com.sina.sso.RemoteSSO: java.lang.String getPackageName()
+com.sina.sso.RemoteSSO: java.lang.String getActivityName()
+com.sina.sso.RemoteSSO$Stub
+com.sina.sso.RemoteSSO$Stub: java.lang.String DESCRIPTOR
+com.sina.sso.RemoteSSO$Stub: int TRANSACTION_getPackageName
+com.sina.sso.RemoteSSO$Stub: int TRANSACTION_getActivityName
+com.sina.sso.RemoteSSO$Stub: RemoteSSO$Stub()
+com.sina.sso.RemoteSSO$Stub: com.sina.sso.RemoteSSO asInterface(android.os.IBinder)
+com.sina.sso.RemoteSSO$Stub: android.os.IBinder asBinder()
+com.sina.sso.RemoteSSO$Stub: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+com.sina.sso.RemoteSSO$Stub$Proxy
+com.sina.sso.RemoteSSO$Stub$Proxy: android.os.IBinder mRemote
+com.sina.sso.RemoteSSO$Stub$Proxy: RemoteSSO$Stub$Proxy(android.os.IBinder)
+com.sina.sso.RemoteSSO$Stub$Proxy: android.os.IBinder asBinder()
+com.sina.sso.RemoteSSO$Stub$Proxy: java.lang.String getInterfaceDescriptor()
+com.sina.sso.RemoteSSO$Stub$Proxy: java.lang.String getPackageName()
+com.sina.sso.RemoteSSO$Stub$Proxy: java.lang.String getActivityName()
